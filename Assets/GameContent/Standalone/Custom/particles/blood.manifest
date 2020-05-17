@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1627579887
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 738e73a29120f147bd0e8d53b21c6545
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0605fe76d012b1a951d4b995dc7210fb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/SDK/Particles/Blood.prefab
+Dependencies: []

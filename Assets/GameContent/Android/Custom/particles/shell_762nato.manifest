@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1105314576
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61e792997a86a13b196f8615b7ca3cba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e8407a8106b966a4c27bee12d055f862
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/SDK/Particles/shell_762nato.prefab
+Dependencies: []

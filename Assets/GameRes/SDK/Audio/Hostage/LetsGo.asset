@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70370e86d4216c4ea0edbfb25f6d640, type: 3}
+  m_Name: LetsGo
+  m_EditorClassIdentifier: 
+  Volume: 1
+  Pitch: 1
+  RandomClip: 1
+  Clip: {fileID: 0}
+  Clips:
+  - {fileID: 8300000, guid: 3f0246ec0f66e1a42a813070ae22dfbd, type: 3}
+  - {fileID: 8300000, guid: d602ef96b9e7dd341ba47a1ade7306bb, type: 3}
+  - {fileID: 8300000, guid: 85c74127d104146459af12a6c80aafb8, type: 3}
+  - {fileID: 8300000, guid: d125c272471e7a647b5ba364ccae40f0, type: 3}
+  - {fileID: 8300000, guid: ddb130e9151c8084597f0a7c00667418, type: 3}
+  - {fileID: 8300000, guid: 5aa1b9eb6aa0c0c42b763a46deb8b3d5, type: 3}
+  - {fileID: 8300000, guid: 680adcd588f3ad04c9fc9a47670d5494, type: 3}
+  - {fileID: 8300000, guid: 9d2b0530ca25fa54c98e3df75c64bb08, type: 3}

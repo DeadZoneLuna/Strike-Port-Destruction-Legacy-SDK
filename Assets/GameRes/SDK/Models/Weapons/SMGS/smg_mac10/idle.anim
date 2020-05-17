@@ -1,0 +1,3758 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: idle
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.000086217995, y: -0.000042996297, z: -0.00004291905, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.000086217995, y: -0.000042996297, z: -0.00004291905, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.745888, y: -0.03562098, z: -0.47430664, w: 0.4662784}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.745888, y: -0.03562098, z: -0.47430664, w: 0.4662784}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.8422791, y: -0.25888038, z: 0.0017847816, w: 0.47280425}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.8422791, y: -0.25888038, z: 0.0017847816, w: 0.47280425}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.75173163, y: 0.36732814, z: -0.12665859, w: 0.53284824}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.75173163, y: 0.36732814, z: -0.12665859, w: 0.53284824}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.013837182, y: -0.077290736, z: -0.1756818, w: 0.98131067}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.013837182, y: -0.077290736, z: -0.1756818, w: 0.98131067}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger0/v_weapon.Bip01_R_Finger01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.023075176, y: -0.0750524, z: -0.2929707, w: 0.9528918}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.023075176, y: -0.0750524, z: -0.2929707, w: 0.9528918}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger0/v_weapon.Bip01_R_Finger01/v_weapon.Bip01_R_Finger02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.014279114, y: -0.065539, z: 0.09618907, w: 0.9931004}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.014279114, y: -0.065539, z: 0.09618907, w: 0.9931004}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 3.879009e-10, y: -0.0000000013747535, z: -0.49204352, w: 0.8705706}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 3.879009e-10, y: -0.0000000013747535, z: -0.49204352, w: 0.8705706}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger1/v_weapon.Bip01_R_Finger11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.0000000032431269, y: -0.000000008319261, z: -0.49204394, w: 0.87057036}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.0000000032431269, y: -0.000000008319261, z: -0.49204394, w: 0.87057036}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger1/v_weapon.Bip01_R_Finger11/v_weapon.Bip01_R_Finger12
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.19972026, y: -0.20191725, z: -0.40959314, w: 0.86693406}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.19972026, y: -0.20191725, z: -0.40959314, w: 0.86693406}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -4.4779352e-10, y: -7.074131e-10, z: -0.5348519, w: 0.8449458}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -4.4779352e-10, y: -7.074131e-10, z: -0.5348519, w: 0.8449458}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger2/v_weapon.Bip01_R_Finger21
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0.5348519, w: 0.8449458}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0, y: -0, z: -0.5348519, w: 0.8449458}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger2/v_weapon.Bip01_R_Finger21/v_weapon.Bip01_R_Finger22
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.21317191, y: -0.20059188, z: -0.40528652, w: 0.86606205}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.21317191, y: -0.20059188, z: -0.40528652, w: 0.86606205}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.0000000013746336, y: -0.0000000021716073, z: -0.5348528, w: 0.8449453}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.0000000013746336, y: -0.0000000021716073, z: -0.5348528, w: 0.8449453}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger3/v_weapon.Bip01_R_Finger31
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 6.73393e-10, y: -4.262584e-10, z: -0.5348516, w: 0.844946}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 6.73393e-10, y: -4.262584e-10, z: -0.5348516, w: 0.844946}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger3/v_weapon.Bip01_R_Finger31/v_weapon.Bip01_R_Finger32
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.237455, y: -0.1899218, z: -0.36712757, w: 0.8790689}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.237455, y: -0.1899218, z: -0.36712757, w: 0.8790689}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.0000000025608404, y: -0.000000005667824, z: -0.41174406, w: 0.9112996}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.0000000025608404, y: -0.000000005667824, z: -0.41174406, w: 0.9112996}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger4/v_weapon.Bip01_R_Finger41
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0, z: -0.41174313, w: 0.91129994}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0, y: -0, z: -0.41174313, w: 0.91129994}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger4/v_weapon.Bip01_R_Finger41/v_weapon.Bip01_R_Finger42
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.6286266, y: -0.531682, z: -0.3898911, w: 0.41246548}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.6286266, y: -0.531682, z: -0.3898911, w: 0.41246548}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -1.0459189e-11, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0, y: -1.0459189e-11, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_clip
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -1.0459189e-11, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0, y: -1.0459189e-11, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_clip/v_weapon.mac10_bullets
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.5, y: 0.5, z: 0.49999988, w: 0.5000001}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.5, y: 0.5, z: 0.49999988, w: 0.5000001}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.flash
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.00044435e-11, y: 2.6643444e-18, z: 1, w: -0.0000002663161}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.00044435e-11, y: 2.6643444e-18, z: 1, w: -0.0000002663161}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.shelleject
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.49959207, y: 0.5004076, z: 0.49959198, w: 0.50040776}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.49959207, y: 0.5004076, z: 0.49959198, w: 0.50040776}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.00019658955, y: -0.0025670237, z: 0.11600219, w: 0.99324566}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.00019658955, y: -0.0025670237, z: 0.11600219, w: 0.99324566}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.00016249469, y: 0.00235388, z: -0.1116892, w: 0.99374044}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.00016249469, y: 0.00235388, z: -0.1116892, w: 0.99374044}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2/v_weapon.mac10_strap3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 4.3655825e-11, y: 8.310045e-14, z: 0.0019035328, w: 0.9999982}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 4.3655825e-11, y: 8.310045e-14, z: 0.0019035328, w: 0.9999982}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2/v_weapon.mac10_strap3/v_weapon.mac10_strap4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.000057460988, y: -0.000000081791484, z: -0.0072604367, w: 0.99997365}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.000057460988, y: -0.000000081791484, z: -0.0072604367, w: 0.99997365}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2/v_weapon.mac10_strap3/v_weapon.mac10_strap4/v_weapon.mac10_strap5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.0000034999562, y: -0.00017249912, z: 6.037394e-10, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.0000034999562, y: -0.00017249912, z: 6.037394e-10, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2/v_weapon.mac10_strap3/v_weapon.mac10_strap4/v_weapon.mac10_strap5/v_weapon.mac10_strap6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.7280401e-11, y: -4.656613e-10, z: 9.392888e-29, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.7280401e-11, y: -4.656613e-10, z: 9.392888e-29, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2/v_weapon.mac10_strap3/v_weapon.mac10_strap4/v_weapon.mac10_strap5/v_weapon.mac10_strap6/v_weapon.mac10_strap7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.7071067, y: -1.9293298e-11, z: -1.9293293e-11, w: 0.7071069}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.7071067, y: -1.9293298e-11, z: -1.9293293e-11, w: 0.7071069}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.stattrack
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.7071067, y: -1.9293298e-11, z: -1.9293293e-11, w: 0.7071069}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.7071067, y: -1.9293298e-11, z: -1.9293293e-11, w: 0.7071069}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.uid
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -1.0459189e-11, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0, y: -1.0459189e-11, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_bolt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -1.0459189e-11, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0, y: -1.0459189e-11, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_trigger
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.38927475, y: 0.31356668, z: 0.84369457, w: -0.19575629}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.38927475, y: 0.31356668, z: 0.84369457, w: -0.19575629}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.7198857, y: 0.24111687, z: 0.04055059, w: 0.64960206}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.7198857, y: 0.24111687, z: 0.04055059, w: 0.64960206}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.54128426, y: -0.2626091, z: -0.15677479, w: 0.78324294}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.54128426, y: -0.2626091, z: -0.15677479, w: 0.78324294}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.011973582, y: -0.036558364, z: -0.18531415, w: 0.9819261}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.011973582, y: -0.036558364, z: -0.18531415, w: 0.9819261}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger0/v_weapon.Bip01_L_Finger01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.020241743, y: -0.034343313, z: -0.42139757, w: 0.9059994}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.020241743, y: -0.034343313, z: -0.42139757, w: 0.9059994}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger0/v_weapon.Bip01_L_Finger01/v_weapon.Bip01_L_Finger02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.12201778, y: 0.0015132236, z: -0.55820495, w: 0.82068056}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.12201778, y: 0.0015132236, z: -0.55820495, w: 0.82068056}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.009617257, y: -0.08596973, z: -0.74948174, w: 0.6563488}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.009617257, y: -0.08596973, z: -0.74948174, w: 0.6563488}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger1/v_weapon.Bip01_L_Finger11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.046122514, y: -0.017939335, z: -0.56642544, w: 0.8226258}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.046122514, y: -0.017939335, z: -0.56642544, w: 0.8226258}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger1/v_weapon.Bip01_L_Finger11/v_weapon.Bip01_L_Finger12
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.15180501, y: -0.01738934, z: -0.629393, w: 0.76191694}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.15180501, y: -0.01738934, z: -0.629393, w: 0.76191694}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.042213783, y: -0.02150163, z: -0.7164435, w: 0.6960348}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.042213783, y: -0.02150163, z: -0.7164435, w: 0.6960348}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger2/v_weapon.Bip01_L_Finger21
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.047287785, y: 0.0028696263, z: -0.2646425, w: 0.9631823}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.047287785, y: 0.0028696263, z: -0.2646425, w: 0.9631823}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger2/v_weapon.Bip01_L_Finger21/v_weapon.Bip01_L_Finger22
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.15582578, y: -0.052287683, z: -0.62554705, w: 0.76267636}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.15582578, y: -0.052287683, z: -0.62554705, w: 0.76267636}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.059605725, y: -0.015227095, z: -0.66149956, w: 0.747418}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.059605725, y: -0.015227095, z: -0.66149956, w: 0.747418}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger3/v_weapon.Bip01_L_Finger31
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.06152012, y: -0.00012867968, z: -0.45777342, w: 0.88693786}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.06152012, y: -0.00012867968, z: -0.45777342, w: 0.88693786}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger3/v_weapon.Bip01_L_Finger31/v_weapon.Bip01_L_Finger32
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.25163525, y: -0.051595382, z: -0.6307974, w: 0.73219687}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.25163525, y: -0.051595382, z: -0.6307974, w: 0.73219687}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.043436643, y: -0.0022567178, z: -0.56565785, w: 0.82349217}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.043436643, y: -0.0022567178, z: -0.56565785, w: 0.82349217}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger4/v_weapon.Bip01_L_Finger41
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.04343732, y: -0.0022568202, z: -0.5656587, w: 0.8234916}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.04343732, y: -0.0022568202, z: -0.5656587, w: 0.8234916}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger4/v_weapon.Bip01_L_Finger41/v_weapon.Bip01_L_Finger42
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.37365818, y: 0.25003943, z: 0.86463743, w: -0.22419202}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.37365818, y: 0.25003943, z: 0.86463743, w: -0.22419202}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_ForeTwist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.8467137, y: -0.16709843, z: -0.4452981, w: 0.23846115}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.8467137, y: -0.16709843, z: -0.4452981, w: 0.23846115}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_ForeTwist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.2665848, y: 0.6656449, z: 0.6517797, w: -0.24704792}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.2665848, y: 0.6656449, z: 0.6517797, w: -0.24704792}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.50000036, y: -0.4999996, z: -0.50000024, w: -0.49999976}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.50000036, y: -0.4999996, z: -0.50000024, w: -0.49999976}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.012467429, y: 0.035834722, z: -0.07435115, w: 0.9965101}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.012467429, y: 0.035834722, z: -0.07435115, w: 0.9965101}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.01649735, y: -0.008785778, z: -0.09992427, w: 0.9948195}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.01649735, y: -0.008785778, z: -0.09992427, w: 0.9948195}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.014143592, y: -0.010811299, z: -0.100102045, w: 0.9948179}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.014143592, y: -0.010811299, z: -0.100102045, w: 0.9948179}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0, y: -0.000000006868504, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0, y: -0.000000006868504, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.10407074, y: -0.0063709016, z: -0.19134104, w: 0.9759699}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.10407074, y: -0.0063709016, z: -0.19134104, w: 0.9759699}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3/v_weapon.Bip01_Neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.64940894, y: 0.073702164, z: 0.6853602, w: -0.32111898}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.64940894, y: 0.073702164, z: 0.6853602, w: -0.32111898}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3/v_weapon.Bip01_Neck/v_weapon.Bip01_L_Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.48149204, y: -0.30628765, z: 0.27426538, w: 0.77403605}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.48149204, y: -0.30628765, z: 0.27426538, w: 0.77403605}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3/v_weapon.Bip01_Neck/v_weapon.Bip01_L_Clavicle/v_weapon.Bip01_L_UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.72788835, y: 0.041319296, z: 0.64775395, w: -0.22110228}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.72788835, y: 0.041319296, z: 0.64775395, w: -0.22110228}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3/v_weapon.Bip01_Neck/v_weapon.Bip01_R_Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.19854754, y: 0.18994655, z: 0.47856423, w: 0.8339517}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.19854754, y: 0.18994655, z: 0.47856423, w: 0.8339517}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3/v_weapon.Bip01_Neck/v_weapon.Bip01_R_Clavicle/v_weapon.Bip01_R_UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.000000094156974, y: 0.7071067, z: 0.00000009415695, w: 0.7071069}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.000000094156974, y: 0.7071067, z: 0.00000009415695, w: 0.7071069}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.v_weapon
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.01999023, y: -0.03, z: 0.065}
+        inSlope: {x: 2.7755573e-16, y: -0, z: 1.1102229e-15}
+        outSlope: {x: 2.7755573e-16, y: -0, z: 1.1102229e-15}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.01999023, y: -0.03, z: 0.065}
+        inSlope: {x: 1.1895246e-16, y: -0, z: 4.7580985e-16}
+        outSlope: {x: 1.1895246e-16, y: -0, z: 4.7580985e-16}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.13320313, y: -0.13374999, z: 0.10304688}
+        inSlope: {x: 2.2204458e-15, y: -2.2204458e-15, z: 1.1102229e-15}
+        outSlope: {x: 2.2204458e-15, y: -2.2204458e-15, z: 1.1102229e-15}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.13320313, y: -0.13374999, z: 0.10304688}
+        inSlope: {x: 9.516197e-16, y: -9.516197e-16, z: 4.7580985e-16}
+        outSlope: {x: 9.516197e-16, y: -9.516197e-16, z: 4.7580985e-16}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.1029558, y: -0.000000019073486, z: -0.000000019073486}
+        inSlope: {x: -0, y: -2.6469777e-22, z: -2.6469777e-22}
+        outSlope: {x: -0, y: -2.6469777e-22, z: -2.6469777e-22}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.1029558, y: -0.000000019073486, z: -0.000000019073486}
+        inSlope: {x: -0, y: -1.1344191e-22, z: -1.1344191e-22}
+        outSlope: {x: -0, y: -1.1344191e-22, z: -1.1344191e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.012311677, y: 0.0034899616, z: 0.012491064}
+        inSlope: {x: -1.3877786e-16, y: 6.938893e-17, z: 1.3877786e-16}
+        outSlope: {x: -1.3877786e-16, y: 6.938893e-17, z: 1.3877786e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.012311677, y: 0.0034899616, z: 0.012491064}
+        inSlope: {x: -5.947623e-17, y: 2.9738116e-17, z: 5.947623e-17}
+        outSlope: {x: -5.947623e-17, y: 2.9738116e-17, z: 5.947623e-17}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.016111061, y: 0, z: 0.000000009536743}
+        inSlope: {x: -1.3877786e-16, y: -0, z: 1.3234889e-22}
+        outSlope: {x: -1.3877786e-16, y: -0, z: 1.3234889e-22}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.016111061, y: 0, z: 0.000000009536743}
+        inSlope: {x: -5.947623e-17, y: -0, z: 5.6720954e-23}
+        outSlope: {x: -5.947623e-17, y: -0, z: 5.6720954e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger0/v_weapon.Bip01_R_Finger01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.011889438, y: 0.000000019073486, z: -0.0000000047683715}
+        inSlope: {x: -2.7755573e-16, y: 2.6469777e-22, z: -6.617444e-23}
+        outSlope: {x: -2.7755573e-16, y: 2.6469777e-22, z: -6.617444e-23}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.011889438, y: 0.000000019073486, z: -0.0000000047683715}
+        inSlope: {x: -1.1895246e-16, y: 1.1344191e-22, z: -2.8360477e-23}
+        outSlope: {x: -1.1895246e-16, y: 1.1344191e-22, z: -2.8360477e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger0/v_weapon.Bip01_R_Finger01/v_weapon.Bip01_R_Finger02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.04068593, y: 0.0014319324, z: 0.0089241695}
+        inSlope: {x: -2.7755573e-16, y: 8.6736166e-18, z: 1.3877786e-16}
+        outSlope: {x: -2.7755573e-16, y: 8.6736166e-18, z: 1.3877786e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.04068593, y: 0.0014319324, z: 0.0089241695}
+        inSlope: {x: -1.1895246e-16, y: 3.7172645e-18, z: 5.947623e-17}
+        outSlope: {x: -1.1895246e-16, y: 3.7172645e-18, z: 5.947623e-17}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.014334583, y: 0, z: 0}
+        inSlope: {x: -4.1633363e-16, y: -0, z: -0}
+        outSlope: {x: -4.1633363e-16, y: -0, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.014334583, y: 0, z: 0}
+        inSlope: {x: -1.7842871e-16, y: -0, z: -0}
+        outSlope: {x: -1.7842871e-16, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger1/v_weapon.Bip01_R_Finger11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.010191626, y: 0.000000038146972, z: 0}
+        inSlope: {x: -2.0816682e-16, y: 5.2939554e-22, z: -0}
+        outSlope: {x: -2.0816682e-16, y: 5.2939554e-22, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.010191626, y: 0.000000038146972, z: 0}
+        inSlope: {x: -8.9214354e-17, y: 2.2688382e-22, z: -0}
+        outSlope: {x: -8.9214354e-17, y: 2.2688382e-22, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger1/v_weapon.Bip01_R_Finger11/v_weapon.Bip01_R_Finger12
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.039392844, y: 0.00020628929, z: -0.00014986038}
+        inSlope: {x: -5.5511146e-16, y: -0, z: -1.8586322e-18}
+        outSlope: {x: -5.5511146e-16, y: -0, z: -1.8586322e-18}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.039392844, y: 0.00020628929, z: -0.00014986038}
+        inSlope: {x: -2.3790493e-16, y: -0, z: -4.3368083e-18}
+        outSlope: {x: -2.3790493e-16, y: -0, z: -4.3368083e-18}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.016912851, y: 0.000000019073486, z: 0}
+        inSlope: {x: -1.3877786e-16, y: 2.6469777e-22, z: -0}
+        outSlope: {x: -1.3877786e-16, y: 2.6469777e-22, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.016912851, y: 0.000000019073486, z: 0}
+        inSlope: {x: -5.947623e-17, y: 1.1344191e-22, z: -0}
+        outSlope: {x: -5.947623e-17, y: 1.1344191e-22, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger2/v_weapon.Bip01_R_Finger21
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.010398407, y: -0.000000009536743, z: 0}
+        inSlope: {x: -6.938893e-17, y: -1.3234889e-22, z: -0}
+        outSlope: {x: -6.938893e-17, y: -1.3234889e-22, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.010398407, y: -0.000000009536743, z: 0}
+        inSlope: {x: -2.9738116e-17, y: -5.6720954e-23, z: -0}
+        outSlope: {x: -2.9738116e-17, y: -5.6720954e-23, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger2/v_weapon.Bip01_R_Finger21/v_weapon.Bip01_R_Finger22
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.035820074, y: 0.0005683327, z: -0.0073542213}
+        inSlope: {x: -2.7755573e-16, y: 4.3368083e-18, z: -6.938893e-17}
+        outSlope: {x: -2.7755573e-16, y: 4.3368083e-18, z: -6.938893e-17}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.035820074, y: 0.0005683327, z: -0.0073542213}
+        inSlope: {x: -1.1895246e-16, y: 1.8586322e-18, z: -2.9738116e-17}
+        outSlope: {x: -1.1895246e-16, y: 1.8586322e-18, z: -2.9738116e-17}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.015839119, y: -0.000000038146972, z: 0.0000000047683715}
+        inSlope: {x: -1.3877786e-16, y: -5.2939554e-22, z: 6.617444e-23}
+        outSlope: {x: -1.3877786e-16, y: -5.2939554e-22, z: 6.617444e-23}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.015839119, y: -0.000000038146972, z: 0.0000000047683715}
+        inSlope: {x: -5.947623e-17, y: -2.2688382e-22, z: 2.8360477e-23}
+        outSlope: {x: -5.947623e-17, y: -2.2688382e-22, z: 2.8360477e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger3/v_weapon.Bip01_R_Finger31
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.010067005, y: 0, z: -0.000000009536743}
+        inSlope: {x: -6.938893e-17, y: -0, z: -1.3234889e-22}
+        outSlope: {x: -6.938893e-17, y: -0, z: -1.3234889e-22}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.010067005, y: 0, z: -0.000000009536743}
+        inSlope: {x: -2.9738116e-17, y: -0, z: -5.6720954e-23}
+        outSlope: {x: -2.9738116e-17, y: -0, z: -5.6720954e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger3/v_weapon.Bip01_R_Finger31/v_weapon.Bip01_R_Finger32
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.03126524, y: 0.0022789764, z: -0.014400787}
+        inSlope: {x: -8.3266727e-16, y: 3.4694466e-17, z: -4.1633363e-16}
+        outSlope: {x: -8.3266727e-16, y: 3.4694466e-17, z: -4.1633363e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.03126524, y: 0.0022789764, z: -0.014400787}
+        inSlope: {x: -3.5685742e-16, y: 1.4869058e-17, z: -1.7842871e-16}
+        outSlope: {x: -3.5685742e-16, y: 1.4869058e-17, z: -1.7842871e-16}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.012463923, y: 0.000000019073486, z: 0.0000000047683715}
+        inSlope: {x: -1.3877786e-16, y: 2.6469777e-22, z: 6.617444e-23}
+        outSlope: {x: -1.3877786e-16, y: 2.6469777e-22, z: 6.617444e-23}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.012463923, y: 0.000000019073486, z: 0.0000000047683715}
+        inSlope: {x: -5.947623e-17, y: 1.1344191e-22, z: 2.8360477e-23}
+        outSlope: {x: -5.947623e-17, y: 1.1344191e-22, z: 2.8360477e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger4/v_weapon.Bip01_R_Finger41
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.006828947, y: 0.000000019073486, z: -0.0000000047683715}
+        inSlope: {x: -0, y: 2.6469777e-22, z: -6.617444e-23}
+        outSlope: {x: -0, y: 2.6469777e-22, z: -6.617444e-23}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.006828947, y: 0.000000019073486, z: -0.0000000047683715}
+        inSlope: {x: -0, y: 1.1344191e-22, z: -2.8360477e-23}
+        outSlope: {x: -0, y: 1.1344191e-22, z: -2.8360477e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger4/v_weapon.Bip01_R_Finger41/v_weapon.Bip01_R_Finger42
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.038261708, y: 0.011542973, z: 0.004206543}
+        inSlope: {x: -8.3266727e-16, y: 6.938893e-17, z: -0}
+        outSlope: {x: -8.3266727e-16, y: 6.938893e-17, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.038261708, y: 0.011542973, z: 0.004206543}
+        inSlope: {x: -3.5685742e-16, y: 2.9738116e-17, z: -0}
+        outSlope: {x: -3.5685742e-16, y: 2.9738116e-17, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0, y: -0.01940752, z: 0.000057239533}
+        inSlope: {x: -0, y: -2.3790493e-16, z: 1.0842021e-18}
+        outSlope: {x: -0, y: -2.3790493e-16, z: 1.0842021e-18}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0, y: -0.01940752, z: 0.000057239533}
+        inSlope: {x: -0, y: -5.5511146e-16, z: 4.6465806e-19}
+        outSlope: {x: -0, y: -5.5511146e-16, z: 4.6465806e-19}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_clip
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0, y: 0.041855123, z: -0.000000019073486}
+        inSlope: {x: -0, y: 4.7580985e-16, z: -2.6469777e-22}
+        outSlope: {x: -0, y: 4.7580985e-16, z: -2.6469777e-22}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0, y: 0.041855123, z: -0.000000019073486}
+        inSlope: {x: -0, y: 1.1102229e-15, z: -1.1344191e-22}
+        outSlope: {x: -0, y: 1.1102229e-15, z: -1.1344191e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_clip/v_weapon.mac10_bullets
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.0000003480911, y: 0.029196938, z: 0.08064835}
+        inSlope: {x: 6.352747e-21, y: 2.7755573e-16, z: 5.5511146e-16}
+        outSlope: {x: 6.352747e-21, y: 2.7755573e-16, z: 5.5511146e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.0000003480911, y: 0.029196938, z: 0.08064835}
+        inSlope: {x: 2.722606e-21, y: 1.1895246e-16, z: 2.3790493e-16}
+        outSlope: {x: 2.722606e-21, y: 1.1895246e-16, z: 2.3790493e-16}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.flash
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.0077800844, y: 0.031733036, z: 0.000066947934}
+        inSlope: {x: 6.938893e-17, y: -0, z: 9.293161e-19}
+        outSlope: {x: 6.938893e-17, y: -0, z: 9.293161e-19}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.0077800844, y: 0.031733036, z: 0.000066947934}
+        inSlope: {x: 2.9738116e-17, y: -0, z: 2.1684041e-18}
+        outSlope: {x: 2.9738116e-17, y: -0, z: 2.1684041e-18}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.shelleject
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.000000009536743, y: 0.029282216, z: 0.063192576}
+        inSlope: {x: 1.3234889e-22, y: 2.7755573e-16, z: -0}
+        outSlope: {x: 1.3234889e-22, y: 2.7755573e-16, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.000000009536743, y: 0.029282216, z: 0.063192576}
+        inSlope: {x: 5.6720954e-23, y: 1.1895246e-16, z: -0}
+        outSlope: {x: 5.6720954e-23, y: 1.1895246e-16, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.015738912, y: 0, z: -0.0000000047683715}
+        inSlope: {x: -2.7755573e-16, y: -0, z: -6.617444e-23}
+        outSlope: {x: -2.7755573e-16, y: -0, z: -6.617444e-23}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.015738912, y: 0, z: -0.0000000047683715}
+        inSlope: {x: -1.1895246e-16, y: -0, z: -2.8360477e-23}
+        outSlope: {x: -1.1895246e-16, y: -0, z: -2.8360477e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.00797575, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.00797575, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2/v_weapon.mac10_strap3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.005544381, y: -0.000000038146972, z: 0.000000038146972}
+        inSlope: {x: -6.938893e-17, y: -5.2939554e-22, z: 5.2939554e-22}
+        outSlope: {x: -6.938893e-17, y: -5.2939554e-22, z: 5.2939554e-22}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.005544381, y: -0.000000038146972, z: 0.000000038146972}
+        inSlope: {x: -2.9738116e-17, y: -2.2688382e-22, z: 2.2688382e-22}
+        outSlope: {x: -2.9738116e-17, y: -2.2688382e-22, z: 2.2688382e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2/v_weapon.mac10_strap3/v_weapon.mac10_strap4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.011264138, y: 0, z: 0}
+        inSlope: {x: -1.3877786e-16, y: -0, z: -0}
+        outSlope: {x: -1.3877786e-16, y: -0, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.011264138, y: 0, z: 0}
+        inSlope: {x: -5.947623e-17, y: -0, z: -0}
+        outSlope: {x: -5.947623e-17, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2/v_weapon.mac10_strap3/v_weapon.mac10_strap4/v_weapon.mac10_strap5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.011353331, y: 0, z: -0.0000000047683715}
+        inSlope: {x: -2.0816682e-16, y: -0, z: -6.617444e-23}
+        outSlope: {x: -2.0816682e-16, y: -0, z: -6.617444e-23}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.011353331, y: 0, z: -0.0000000047683715}
+        inSlope: {x: -8.9214354e-17, y: -0, z: -2.8360477e-23}
+        outSlope: {x: -8.9214354e-17, y: -0, z: -2.8360477e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2/v_weapon.mac10_strap3/v_weapon.mac10_strap4/v_weapon.mac10_strap5/v_weapon.mac10_strap6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.014346027, y: -0.000000019073486, z: 0.000004954338}
+        inSlope: {x: -0, y: -2.6469777e-22, z: 7.744301e-20}
+        outSlope: {x: -0, y: -2.6469777e-22, z: 7.744301e-20}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.014346027, y: -0.000000019073486, z: 0.000004954338}
+        inSlope: {x: -0, y: -1.1344191e-22, z: -7.744301e-20}
+        outSlope: {x: -0, y: -1.1344191e-22, z: -7.744301e-20}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2/v_weapon.mac10_strap3/v_weapon.mac10_strap4/v_weapon.mac10_strap5/v_weapon.mac10_strap6/v_weapon.mac10_strap7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.0015712786, y: 0.011431966, z: 0.04140272}
+        inSlope: {x: -3.4694466e-17, y: 2.0816682e-16, z: 2.7755573e-16}
+        outSlope: {x: -3.4694466e-17, y: 2.0816682e-16, z: 2.7755573e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.0015712786, y: 0.011431966, z: 0.04140272}
+        inSlope: {x: -1.4869058e-17, y: 8.9214354e-17, z: 1.1895246e-16}
+        outSlope: {x: -1.4869058e-17, y: 8.9214354e-17, z: 1.1895246e-16}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.stattrack
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.009113321, y: 0.023701567, z: 0.0039986228}
+        inSlope: {x: -6.938893e-17, y: 2.7755573e-16, z: 3.4694466e-17}
+        outSlope: {x: -6.938893e-17, y: 2.7755573e-16, z: 3.4694466e-17}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.009113321, y: 0.023701567, z: 0.0039986228}
+        inSlope: {x: -2.9738116e-17, y: 1.1895246e-16, z: 1.4869058e-17}
+        outSlope: {x: -2.9738116e-17, y: 1.1895246e-16, z: 1.4869058e-17}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.uid
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.0000000047683715, y: 0.0414525, z: 0.012146816}
+        inSlope: {x: 6.617444e-23, y: 6.344131e-16, z: 1.3877786e-16}
+        outSlope: {x: 6.617444e-23, y: 6.344131e-16, z: 1.3877786e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.0000000047683715, y: 0.0414525, z: 0.012146816}
+        inSlope: {x: 2.8360477e-23, y: -6.344131e-16, z: 5.947623e-17}
+        outSlope: {x: 2.8360477e-23, y: -6.344131e-16, z: 5.947623e-17}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_bolt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0, y: 0.017853465, z: 0.014534912}
+        inSlope: {x: -0, y: 4.1633363e-16, z: -0}
+        outSlope: {x: -0, y: 4.1633363e-16, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0, y: 0.017853465, z: 0.014534912}
+        inSlope: {x: -0, y: 1.7842871e-16, z: -0}
+        outSlope: {x: -0, y: 1.7842871e-16, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_trigger
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.02107422, y: -0.14492188, z: 0.18734375}
+        inSlope: {x: -2.7755573e-16, y: -3.330669e-15, z: 4.4408917e-15}
+        outSlope: {x: -2.7755573e-16, y: -3.330669e-15, z: 4.4408917e-15}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.02107422, y: -0.14492188, z: 0.18734375}
+        inSlope: {x: -1.1895246e-16, y: -1.4274297e-15, z: 1.9032394e-15}
+        outSlope: {x: -1.1895246e-16, y: -1.4274297e-15, z: 1.9032394e-15}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.10295583, y: 0.000000038146972, z: -0.0000000047683715}
+        inSlope: {x: -1.4274293e-15, y: 5.2939554e-22, z: -6.617444e-23}
+        outSlope: {x: -1.4274293e-15, y: 5.2939554e-22, z: -6.617444e-23}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.10295583, y: 0.000000038146972, z: -0.0000000047683715}
+        inSlope: {x: 3.0134624e-15, y: 2.2688382e-22, z: -2.8360477e-23}
+        outSlope: {x: 3.0134624e-15, y: 2.2688382e-22, z: -2.8360477e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.012311687, y: 0.0034899735, z: -0.012491112}
+        inSlope: {x: -1.3877786e-16, y: 3.4694466e-17, z: -0}
+        outSlope: {x: -1.3877786e-16, y: 3.4694466e-17, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.012311687, y: 0.0034899735, z: -0.012491112}
+        inSlope: {x: -5.947623e-17, y: 1.4869058e-17, z: -0}
+        outSlope: {x: -5.947623e-17, y: 1.4869058e-17, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.016111068, y: 0.000000019073486, z: 0.000000019073486}
+        inSlope: {x: -0, y: 2.6469777e-22, z: 2.6469777e-22}
+        outSlope: {x: -0, y: 2.6469777e-22, z: 2.6469777e-22}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.016111068, y: 0.000000019073486, z: 0.000000019073486}
+        inSlope: {x: -0, y: 1.1344191e-22, z: 1.1344191e-22}
+        outSlope: {x: -0, y: 1.1344191e-22, z: 1.1344191e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger0/v_weapon.Bip01_L_Finger01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.0118894195, y: 0, z: 0.000000057220458}
+        inSlope: {x: -1.3877786e-16, y: -0, z: -0}
+        outSlope: {x: -1.3877786e-16, y: -0, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.0118894195, y: 0, z: 0.000000057220458}
+        inSlope: {x: -5.947623e-17, y: -0, z: -0}
+        outSlope: {x: -5.947623e-17, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger0/v_weapon.Bip01_L_Finger01/v_weapon.Bip01_L_Finger02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.040685978, y: 0.00143193, z: -0.008924179}
+        inSlope: {x: -2.7755573e-16, y: 8.6736166e-18, z: -1.3877786e-16}
+        outSlope: {x: -2.7755573e-16, y: 8.6736166e-18, z: -1.3877786e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.040685978, y: 0.00143193, z: -0.008924179}
+        inSlope: {x: -1.1895246e-16, y: 3.7172645e-18, z: -5.947623e-17}
+        outSlope: {x: -1.1895246e-16, y: 3.7172645e-18, z: -5.947623e-17}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.014334587, y: 0.000000038146972, z: -0.000000019073486}
+        inSlope: {x: -2.7755573e-16, y: 5.2939554e-22, z: -2.6469777e-22}
+        outSlope: {x: -2.7755573e-16, y: 5.2939554e-22, z: -2.6469777e-22}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.014334587, y: 0.000000038146972, z: -0.000000019073486}
+        inSlope: {x: -1.1895246e-16, y: 2.2688382e-22, z: -1.1344191e-22}
+        outSlope: {x: -1.1895246e-16, y: 2.2688382e-22, z: -1.1344191e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger1/v_weapon.Bip01_L_Finger11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.0101916315, y: 0.0000000035762786, z: 0.000000009536743}
+        inSlope: {x: -6.938893e-17, y: -0, z: 1.3234889e-22}
+        outSlope: {x: -6.938893e-17, y: -0, z: 1.3234889e-22}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.0101916315, y: 0.0000000035762786, z: 0.000000009536743}
+        inSlope: {x: -2.9738116e-17, y: -0, z: 5.6720954e-23}
+        outSlope: {x: -2.9738116e-17, y: -0, z: 5.6720954e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger1/v_weapon.Bip01_L_Finger11/v_weapon.Bip01_L_Finger12
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.03939287, y: 0.00020626307, z: 0.0001498413}
+        inSlope: {x: -8.3266727e-16, y: -0, z: 3.2526065e-18}
+        outSlope: {x: -8.3266727e-16, y: -0, z: 3.2526065e-18}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.03939287, y: 0.00020626307, z: 0.0001498413}
+        inSlope: {x: -3.5685742e-16, y: -0, z: 1.3939743e-18}
+        outSlope: {x: -3.5685742e-16, y: -0, z: 1.3939743e-18}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.016912863, y: 0, z: 0}
+        inSlope: {x: -4.1633363e-16, y: -0, z: -0}
+        outSlope: {x: -4.1633363e-16, y: -0, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.016912863, y: 0, z: 0}
+        inSlope: {x: -1.7842871e-16, y: -0, z: -0}
+        outSlope: {x: -1.7842871e-16, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger2/v_weapon.Bip01_L_Finger21
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.010398407, y: -0.000000007152557, z: 0}
+        inSlope: {x: -6.938893e-17, y: -0, z: -0}
+        outSlope: {x: -6.938893e-17, y: -0, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.010398407, y: -0.000000007152557, z: 0}
+        inSlope: {x: -2.9738116e-17, y: -0, z: -0}
+        outSlope: {x: -2.9738116e-17, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger2/v_weapon.Bip01_L_Finger21/v_weapon.Bip01_L_Finger22
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.03582008, y: 0.00056834816, z: 0.0073542213}
+        inSlope: {x: -4.7580985e-16, y: 5.575896e-18, z: 6.938893e-17}
+        outSlope: {x: -4.7580985e-16, y: 5.575896e-18, z: 6.938893e-17}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.03582008, y: 0.00056834816, z: 0.0073542213}
+        inSlope: {x: -1.1102229e-15, y: -1.1771338e-17, z: 2.9738116e-17}
+        outSlope: {x: -1.1102229e-15, y: -1.1771338e-17, z: 2.9738116e-17}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.015839133, y: 0.000000019073486, z: 0.000000019073486}
+        inSlope: {x: -2.7755573e-16, y: 2.6469777e-22, z: 2.6469777e-22}
+        outSlope: {x: -2.7755573e-16, y: 2.6469777e-22, z: 2.6469777e-22}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.015839133, y: 0.000000019073486, z: 0.000000019073486}
+        inSlope: {x: -1.1895246e-16, y: 1.1344191e-22, z: 1.1344191e-22}
+        outSlope: {x: -1.1895246e-16, y: 1.1344191e-22, z: 1.1344191e-22}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger3/v_weapon.Bip01_L_Finger31
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.010066986, y: 0.0000000047683715, z: 0.000000028610229}
+        inSlope: {x: -2.7755573e-16, y: 6.617444e-23, z: -0}
+        outSlope: {x: -2.7755573e-16, y: 6.617444e-23, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.010066986, y: 0.0000000047683715, z: 0.000000028610229}
+        inSlope: {x: -1.1895246e-16, y: 2.8360477e-23, z: -0}
+        outSlope: {x: -1.1895246e-16, y: 2.8360477e-23, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger3/v_weapon.Bip01_L_Finger31/v_weapon.Bip01_L_Finger32
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.031265277, y: 0.0022789515, z: 0.014400787}
+        inSlope: {x: -8.3266727e-16, y: 5.2041704e-17, z: 4.1633363e-16}
+        outSlope: {x: -8.3266727e-16, y: 5.2041704e-17, z: 4.1633363e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.031265277, y: 0.0022789515, z: 0.014400787}
+        inSlope: {x: -3.5685742e-16, y: 2.2303588e-17, z: 1.7842871e-16}
+        outSlope: {x: -3.5685742e-16, y: 2.2303588e-17, z: 1.7842871e-16}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.012463923, y: 0, z: -0.000000009536743}
+        inSlope: {x: -1.3877786e-16, y: -0, z: -1.3234889e-22}
+        outSlope: {x: -1.3877786e-16, y: -0, z: -1.3234889e-22}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.012463923, y: 0, z: -0.000000009536743}
+        inSlope: {x: -5.947623e-17, y: -0, z: -5.6720954e-23}
+        outSlope: {x: -5.947623e-17, y: -0, z: -5.6720954e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger4/v_weapon.Bip01_L_Finger41
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.0068289945, y: 0.000000009536743, z: 0}
+        inSlope: {x: -1.3877786e-16, y: 1.3234889e-22, z: -0}
+        outSlope: {x: -1.3877786e-16, y: 1.3234889e-22, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.0068289945, y: 0.000000009536743, z: 0}
+        inSlope: {x: -5.947623e-17, y: 5.6720954e-23, z: -0}
+        outSlope: {x: -5.947623e-17, y: 5.6720954e-23, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger4/v_weapon.Bip01_L_Finger41/v_weapon.Bip01_L_Finger42
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.02107422, y: -0.14492188, z: 0.18734375}
+        inSlope: {x: -2.7755573e-16, y: -3.330669e-15, z: 4.4408917e-15}
+        outSlope: {x: -2.7755573e-16, y: -3.330669e-15, z: 4.4408917e-15}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.02107422, y: -0.14492188, z: 0.18734375}
+        inSlope: {x: -1.1895246e-16, y: -1.4274297e-15, z: 1.9032394e-15}
+        outSlope: {x: -1.1895246e-16, y: -1.4274297e-15, z: 1.9032394e-15}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_ForeTwist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.13320313, y: -0.13374999, z: 0.10304688}
+        inSlope: {x: 2.2204458e-15, y: -2.2204458e-15, z: 1.1102229e-15}
+        outSlope: {x: 2.2204458e-15, y: -2.2204458e-15, z: 1.1102229e-15}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.13320313, y: -0.13374999, z: 0.10304688}
+        inSlope: {x: 9.516197e-16, y: -9.516197e-16, z: 4.7580985e-16}
+        outSlope: {x: 9.516197e-16, y: -9.516197e-16, z: 4.7580985e-16}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_ForeTwist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.051040266, y: -0.19840378, z: 0.037064098}
+        inSlope: {x: -1.1102229e-15, y: -0, z: 2.7755573e-16}
+        outSlope: {x: -1.1102229e-15, y: -0, z: 2.7755573e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.051040266, y: -0.19840378, z: 0.037064098}
+        inSlope: {x: -4.7580985e-16, y: -0, z: 1.1895246e-16}
+        outSlope: {x: -4.7580985e-16, y: -0, z: 1.1895246e-16}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.03562904, y: -0.008166008, z: -0.0000006210804}
+        inSlope: {x: -2.7755573e-16, y: -2.0816682e-16, z: -8.470329e-21}
+        outSlope: {x: -2.7755573e-16, y: -2.0816682e-16, z: -8.470329e-21}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.03562904, y: -0.008166008, z: -0.0000006210804}
+        inSlope: {x: -1.1895246e-16, y: -8.9214354e-17, z: -3.630141e-21}
+        outSlope: {x: -1.1895246e-16, y: -8.9214354e-17, z: -3.630141e-21}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.04004384, y: -0.00003121853, z: -0.0000011080504}
+        inSlope: {x: -8.3266727e-16, y: -5.4210103e-19, z: -2.5410988e-20}
+        outSlope: {x: -8.3266727e-16, y: -5.4210103e-19, z: -2.5410988e-20}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.04004384, y: -0.00003121853, z: -0.0000011080504}
+        inSlope: {x: -3.5685742e-16, y: -2.3232903e-19, z: -1.0890424e-20}
+        outSlope: {x: -3.5685742e-16, y: -2.3232903e-19, z: -1.0890424e-20}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.040043887, y: -0.000031228064, z: -0.0000009605288}
+        inSlope: {x: -8.3266727e-16, y: -2.7105052e-19, z: -0}
+        outSlope: {x: -8.3266727e-16, y: -2.7105052e-19, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.040043887, y: -0.000031228064, z: -0.0000009605288}
+        inSlope: {x: -3.5685742e-16, y: -1.1616451e-19, z: -0}
+        outSlope: {x: -3.5685742e-16, y: -1.1616451e-19, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.040037528, y: -0.00003186941, z: -0.000000012889505}
+        inSlope: {x: -4.7580985e-16, y: -5.4210103e-19, z: -1.3234889e-22}
+        outSlope: {x: -4.7580985e-16, y: -5.4210103e-19, z: -1.3234889e-22}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.040037528, y: -0.00003186941, z: -0.000000012889505}
+        inSlope: {x: -1.1102229e-15, y: -2.3232903e-19, z: -5.6720954e-23}
+        outSlope: {x: -1.1102229e-15, y: -2.3232903e-19, z: -5.6720954e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.050291136, y: -0.007635151, z: -0.0000073003766}
+        inSlope: {x: -1.1102229e-15, y: -0, z: -2.0328791e-19}
+        outSlope: {x: -1.1102229e-15, y: -0, z: -2.0328791e-19}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.050291136, y: -0.007635151, z: -0.0000073003766}
+        inSlope: {x: -4.7580985e-16, y: -0, z: -8.712339e-20}
+        outSlope: {x: -4.7580985e-16, y: -0, z: -8.712339e-20}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3/v_weapon.Bip01_Neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.009357719, y: 0.00588812, z: 0.01153697}
+        inSlope: {x: 1.3877786e-16, y: -0, z: 6.938893e-17}
+        outSlope: {x: 1.3877786e-16, y: -0, z: 6.938893e-17}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.009357719, y: 0.00588812, z: 0.01153697}
+        inSlope: {x: 5.947623e-17, y: -0, z: 2.9738116e-17}
+        outSlope: {x: 5.947623e-17, y: -0, z: 2.9738116e-17}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3/v_weapon.Bip01_Neck/v_weapon.Bip01_L_Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.05773737, y: -0.000000010728836, z: -0.0000000023841857}
+        inSlope: {x: -5.5511146e-16, y: -1.9852335e-22, z: -3.308722e-23}
+        outSlope: {x: -5.5511146e-16, y: -1.9852335e-22, z: -3.308722e-23}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.05773737, y: -0.000000010728836, z: -0.0000000023841857}
+        inSlope: {x: -2.3790493e-16, y: -8.508144e-23, z: -1.4180239e-23}
+        outSlope: {x: -2.3790493e-16, y: -8.508144e-23, z: -1.4180239e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3/v_weapon.Bip01_Neck/v_weapon.Bip01_L_Clavicle/v_weapon.Bip01_L_UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.01002784, y: 0.00085851963, z: -0.012397078}
+        inSlope: {x: 2.0816682e-16, y: -0, z: -2.7755573e-16}
+        outSlope: {x: 2.0816682e-16, y: -0, z: -2.7755573e-16}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.01002784, y: 0.00085851963, z: -0.012397078}
+        inSlope: {x: 8.9214354e-17, y: -0, z: -1.1895246e-16}
+        outSlope: {x: 8.9214354e-17, y: -0, z: -1.1895246e-16}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3/v_weapon.Bip01_Neck/v_weapon.Bip01_R_Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.05773737, y: -0.00000000834465, z: -0.000000010728836}
+        inSlope: {x: -5.5511146e-16, y: -6.617444e-23, z: -1.9852335e-22}
+        outSlope: {x: -5.5511146e-16, y: -6.617444e-23, z: -1.9852335e-22}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0.05773737, y: -0.00000000834465, z: -0.000000010728836}
+        inSlope: {x: -2.3790493e-16, y: -2.8360477e-23, z: -8.508144e-23}
+        outSlope: {x: -2.3790493e-16, y: -2.8360477e-23, z: -8.508144e-23}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3/v_weapon.Bip01_Neck/v_weapon.Bip01_R_Clavicle/v_weapon.Bip01_R_UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: -0, y: -0, z: -0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.v_weapon
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0000001, y: 0.9999999, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.0000001, y: 0.9999999, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 0.9999997, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 0.9999997, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0000001, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.0000001, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger0/v_weapon.Bip01_R_Finger01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger0/v_weapon.Bip01_R_Finger01/v_weapon.Bip01_R_Finger02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.9999998, y: 0.99999994, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.9999998, y: 0.99999994, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger1/v_weapon.Bip01_R_Finger11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger1/v_weapon.Bip01_R_Finger11/v_weapon.Bip01_R_Finger12
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1.0000001, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1.0000001, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger2/v_weapon.Bip01_R_Finger21
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger2/v_weapon.Bip01_R_Finger21/v_weapon.Bip01_R_Finger22
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 0.9999998, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 0.9999998, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger3/v_weapon.Bip01_R_Finger31
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger3/v_weapon.Bip01_R_Finger31/v_weapon.Bip01_R_Finger32
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 0.9999999, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 0.9999999, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger4/v_weapon.Bip01_R_Finger41
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.9999999, y: 1, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.9999999, y: 1, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.Bip01_R_Finger4/v_weapon.Bip01_R_Finger41/v_weapon.Bip01_R_Finger42
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 0.9999999, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 0.9999999, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_clip
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_clip/v_weapon.mac10_bullets
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.flash
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.shelleject
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 0.9999999, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 0.9999999, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2/v_weapon.mac10_strap3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2/v_weapon.mac10_strap3/v_weapon.mac10_strap4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2/v_weapon.mac10_strap3/v_weapon.mac10_strap4/v_weapon.mac10_strap5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2/v_weapon.mac10_strap3/v_weapon.mac10_strap4/v_weapon.mac10_strap5/v_weapon.mac10_strap6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_strap1/v_weapon.mac10_strap2/v_weapon.mac10_strap3/v_weapon.mac10_strap4/v_weapon.mac10_strap5/v_weapon.mac10_strap6/v_weapon.mac10_strap7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.stattrack
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.uid
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_bolt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_Forearm/v_weapon.Bip01_R_Hand/v_weapon.mac10_parent/v_weapon.mac10_trigger
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1.0000001, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1.0000001, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger0
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger0/v_weapon.Bip01_L_Finger01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger0/v_weapon.Bip01_L_Finger01/v_weapon.Bip01_L_Finger02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger1/v_weapon.Bip01_L_Finger11
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger1/v_weapon.Bip01_L_Finger11/v_weapon.Bip01_L_Finger12
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.9999999, y: 0.99999994, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.9999999, y: 0.99999994, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger2/v_weapon.Bip01_L_Finger21
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger2/v_weapon.Bip01_L_Finger21/v_weapon.Bip01_L_Finger22
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 0.9999999, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 0.9999999, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger3/v_weapon.Bip01_L_Finger31
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger3/v_weapon.Bip01_L_Finger31/v_weapon.Bip01_L_Finger32
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger4/v_weapon.Bip01_L_Finger41
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_Forearm/v_weapon.Bip01_L_Hand/v_weapon.Bip01_L_Finger4/v_weapon.Bip01_L_Finger41/v_weapon.Bip01_L_Finger42
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.0000001, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_L_ForeTwist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01_R_ForeTwist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.0000001, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1.0000001, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3/v_weapon.Bip01_Neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3/v_weapon.Bip01_Neck/v_weapon.Bip01_L_Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1.0000001, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1.0000001, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3/v_weapon.Bip01_Neck/v_weapon.Bip01_L_Clavicle/v_weapon.Bip01_L_UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3/v_weapon.Bip01_Neck/v_weapon.Bip01_R_Clavicle
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.99999994, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 0.99999994, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.Bip01/v_weapon.Bip01_Pelvis/v_weapon.Bip01_Spine/v_weapon.Bip01_Spine1/v_weapon.Bip01_Spine2/v_weapon.Bip01_Spine3/v_weapon.Bip01_Neck/v_weapon.Bip01_R_Clavicle/v_weapon.Bip01_R_UpperArm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.033333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: v_weapon.v_weapon
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.033333335
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

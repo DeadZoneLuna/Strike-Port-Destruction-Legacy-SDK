@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: aaa4cf329beec3f4885874d124745c36
+labels:
+- weapons/w_eq_flashbang_dropped
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: weapons/w_eq_flashbang_dropped
+  assetBundleVariant: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a606e05cfced3084086a9f8f5d0a0725
+labels:
+- weapons/w_eq_smokegrenade_dropped
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: weapons/w_eq_smokegrenade_dropped
+  assetBundleVariant: 

@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 178167415
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f052ee704e8754ae04c3d0594e1068c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4208b83bff0467f588fb33b5c71aafb0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99a1de0c5c0a7c34e8d3fd84d548f941, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f70370e86d4216c4ea0edbfb25f6d640, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/SDK/Models/Weapons/ied/ied.prefab
+Dependencies: []

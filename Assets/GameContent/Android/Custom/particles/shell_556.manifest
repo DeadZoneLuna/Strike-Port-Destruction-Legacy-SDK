@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 469931844
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e96bd61780f9de1446c443d051d66c80
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e8407a8106b966a4c27bee12d055f862
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/SDK/Particles/shell_556.prefab
+Dependencies: []

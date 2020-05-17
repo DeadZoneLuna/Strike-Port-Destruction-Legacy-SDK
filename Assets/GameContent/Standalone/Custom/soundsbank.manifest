@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2778174344
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ab36c115b642677d49aa648654bf1e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 84e63f0121014aeae0e6a2234f8cbaf9
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 62efc27bb7662db41857aff237b1b5bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f70370e86d4216c4ea0edbfb25f6d640, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/SDK/Audio/GameSoundsObject.asset
+Dependencies: []

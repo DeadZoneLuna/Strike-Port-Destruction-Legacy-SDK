@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70370e86d4216c4ea0edbfb25f6d640, type: 3}
+  m_Name: snip_g3sg1_distance
+  m_EditorClassIdentifier: 
+  Volume: 1
+  Pitch: 1
+  RandomClip: 1
+  Clip: {fileID: 0}
+  Clips:
+  - {fileID: 8300000, guid: cea02134fa680314fb36b694e89f8e68, type: 3}
+  - {fileID: 8300000, guid: 0c61c6eda6727a744acbab97dd9cb9ec, type: 3}
+  - {fileID: 8300000, guid: 1279125f87dde0348bcedb39c06e241a, type: 3}

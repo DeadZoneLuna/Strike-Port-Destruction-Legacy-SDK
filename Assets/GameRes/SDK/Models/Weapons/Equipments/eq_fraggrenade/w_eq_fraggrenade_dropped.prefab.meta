@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 8095498bfd1d5de44a038ea0c8e9f433
+labels:
+- weapons/w_eq_fraggrenade_dropped
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: weapons/w_eq_fraggrenade_dropped
+  assetBundleVariant: 

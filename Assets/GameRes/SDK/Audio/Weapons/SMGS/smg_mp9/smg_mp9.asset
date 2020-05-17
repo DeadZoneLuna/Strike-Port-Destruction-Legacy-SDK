@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70370e86d4216c4ea0edbfb25f6d640, type: 3}
+  m_Name: smg_mp9
+  m_EditorClassIdentifier: 
+  Volume: 1
+  Pitch: 1
+  RandomClip: 1
+  Clip: {fileID: 0}
+  Clips:
+  - {fileID: 8300000, guid: e56d8151400e8b14f837b33bc7f7b150, type: 3}
+  - {fileID: 8300000, guid: 96f4a1e60acb75645a29c95857dd0e21, type: 3}
+  - {fileID: 8300000, guid: cc68b2be6d3f07547b26a05ed1266b9d, type: 3}
+  - {fileID: 8300000, guid: 41840d260ab0f1e4dacfa1796e93f117, type: 3}

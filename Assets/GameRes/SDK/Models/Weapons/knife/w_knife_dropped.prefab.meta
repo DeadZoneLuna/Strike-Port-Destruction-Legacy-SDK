@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: aa630405ed67d2e48bee875d5c98fe08
+labels:
+- weapons/w_knife_dropped
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: weapons/w_knife_dropped
+  assetBundleVariant: 

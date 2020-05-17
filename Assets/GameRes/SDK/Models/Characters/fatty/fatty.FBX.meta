@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: d61ed58c5a3cf9b40b41f69682cb75f2
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Rcarp2
+    100002: Rcarp
+    100004: Rloarm
+    100006: Rshldr
+    100008: L_cheek
+    100010: Rbrow2
+    100012: L_shirt
+    100014: L_belly
+    100016: Belly
+    100018: zfat
+    100020: //RootNode
+    100022: L_sleeve
+    100024: origin
+    100026: Hips
+    100028: R_pantleg
+    100030: Rloleg
+    100032: Lknee
+    100034: Ltoe_r
+    100036: Lloleg
+    100038: Lball_r
+    100040: face
+    100042: Lankle_r
+    100044: Lfings1
+    100046: Lcarp2
+    100048: Lindex3
+    100050: Rindex3
+    100052: R_shirt
+    100054: R_belly
+    100056: L_boob
+    100058: chest
+    100060: head
+    100062: Rthumb3
+    100064: Lthumb3
+    100066: Lthumb2
+    100068: Rhand
+    100070: Rknee
+    100072: Rtoe_r
+    100074: Rthumb1
+    100076: Rthumbo
+    100078: Ruparm
+    100080: Rindex2
+    100082: R_sleeve
+    100084: Body
+    100086: R_pants
+    100088: Rupleg
+    100090: Rfings2
+    100092: Rfings1
+    100094: Lfings3
+    100096: Lfings2
+    100098: Lthumb1
+    100100: Rball_r
+    100102: Rankle_r
+    100104: shoulders
+    100106: Rfings3
+    100108: Rbrow1
+    100110: Up_lip
+    100112: Lupleg
+    100114: L_pantleg
+    100116: Lbrow1
+    100118: waist
+    100120: Shirt_back_lo
+    100122: Rthumb2
+    100124: Lthumb0
+    100126: Lbrow2
+    100128: Lo_lip
+    100130: R_cheek
+    100132: Rindex1
+    100134: Shirt_back_hi
+    100136: R_boob
+    100138: Lshldr
+    100140: Body2
+    100142: L_pants
+    100144: rub
+    100146: Lloarm
+    100148: Luparm
+    100150: Lindex1
+    100152: Lcarp
+    100154: Lhand
+    100156: Lindex2
+    100158: pipe
+    100160: loneck
+    100162: Neck_Fat
+    400000: Rcarp2
+    400002: Rcarp
+    400004: Rloarm
+    400006: Rshldr
+    400008: L_cheek
+    400010: Rbrow2
+    400012: L_shirt
+    400014: L_belly
+    400016: Belly
+    400018: zfat
+    400020: //RootNode
+    400022: L_sleeve
+    400024: origin
+    400026: Hips
+    400028: R_pantleg
+    400030: Rloleg
+    400032: Lknee
+    400034: Ltoe_r
+    400036: Lloleg
+    400038: Lball_r
+    400040: face
+    400042: Lankle_r
+    400044: Lfings1
+    400046: Lcarp2
+    400048: Lindex3
+    400050: Rindex3
+    400052: R_shirt
+    400054: R_belly
+    400056: L_boob
+    400058: chest
+    400060: head
+    400062: Rthumb3
+    400064: Lthumb3
+    400066: Lthumb2
+    400068: Rhand
+    400070: Rknee
+    400072: Rtoe_r
+    400074: Rthumb1
+    400076: Rthumbo
+    400078: Ruparm
+    400080: Rindex2
+    400082: R_sleeve
+    400084: Body
+    400086: R_pants
+    400088: Rupleg
+    400090: Rfings2
+    400092: Rfings1
+    400094: Lfings3
+    400096: Lfings2
+    400098: Lthumb1
+    400100: Rball_r
+    400102: Rankle_r
+    400104: shoulders
+    400106: Rfings3
+    400108: Rbrow1
+    400110: Up_lip
+    400112: Lupleg
+    400114: L_pantleg
+    400116: Lbrow1
+    400118: waist
+    400120: Shirt_back_lo
+    400122: Rthumb2
+    400124: Lthumb0
+    400126: Lbrow2
+    400128: Lo_lip
+    400130: R_cheek
+    400132: Rindex1
+    400134: Shirt_back_hi
+    400136: R_boob
+    400138: Lshldr
+    400140: Body2
+    400142: L_pants
+    400144: rub
+    400146: Lloarm
+    400148: Luparm
+    400150: Lindex1
+    400152: Lcarp
+    400154: Lhand
+    400156: Lindex2
+    400158: pipe
+    400160: loneck
+    400162: Neck_Fat
+    4300000: zfat
+    11100000: //RootNode
+    13700000: zfat
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: e45446b834933b44c96aba31c99105e2, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

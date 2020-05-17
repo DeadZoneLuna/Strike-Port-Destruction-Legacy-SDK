@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3114338452
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e820687daa384a8a9e7362979176ca6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1e7802175d03151f00c32653a35478f8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/SDK/Models/Players/Player_IDF_D/Textures/ctm_idf_head_variantd_normal.jpg
+- Assets/GameRes/SDK/Models/Players/Player_IDF_D/Materials/ctm_IDF_Head_variantD.mat
+- Assets/GameRes/SDK/Models/Players/Player_IDF_D/Player_IDF_D.prefab
+- Assets/GameRes/SDK/Models/Players/Player_IDF_D/Textures/ctm_idf_head_variantd.jpg
+Dependencies:
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_idf_f
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_leet_d
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_idf_b
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_leet_e
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_leet_b
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_leet_c
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_idf_e
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_idf
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_idf_c
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_leet_a

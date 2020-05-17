@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9ae89979d8043854bbc9c24a4e3b3e4c
+labels:
+- weapons/w_shot_nova_dropped
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: weapons/w_shot_nova_dropped
+  assetBundleVariant: 

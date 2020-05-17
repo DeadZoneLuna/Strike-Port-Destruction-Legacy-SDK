@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70370e86d4216c4ea0edbfb25f6d640, type: 3}
+  m_Name: keypressquiet
+  m_EditorClassIdentifier: 
+  Volume: 1
+  Pitch: 1
+  RandomClip: 1
+  Clip: {fileID: 0}
+  Clips:
+  - {fileID: 8300000, guid: bd701f75ecf3b324d8db0de9bcee6ed1, type: 3}
+  - {fileID: 8300000, guid: 35a0ac51b2d9040449ed78b20c3aa562, type: 3}
+  - {fileID: 8300000, guid: a263b6fb500763b44948392aa59638d7, type: 3}
+  - {fileID: 8300000, guid: f7e921cb2df24254ea1e0308c64698ee, type: 3}
+  - {fileID: 8300000, guid: b931e5762f4812144a5afd4ca725701f, type: 3}
+  - {fileID: 8300000, guid: 314985672398acd44910864cd52c051d, type: 3}
+  - {fileID: 8300000, guid: 5aa8e7d776dece849b917d365406b552, type: 3}

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1896353240
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea538de82c185a2e435909f3c52fce5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e51dba4e87e76a45a4eb058fa4e00180
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/SDK/Models/Weapons/HeavyGuns/shot_xm1014/W_shot_xm1014.prefab
+Dependencies: []

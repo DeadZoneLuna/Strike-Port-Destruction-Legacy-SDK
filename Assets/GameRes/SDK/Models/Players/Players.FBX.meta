@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 192f54e8414c8ec46a33b94b9e089cdd
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: -- L Elbow
+    100002: -- L Knee
+    100004: -- L knuckle
+    100006: -- L wrist
+    100008: -- Neck smooth
+    100010: -- R Elbow
+    100012: -- R Knee
+    100014: -- R knuckle
+    100016: -- R wrist
+    100018: Bip01
+    100020: Bip01 Head
+    100022: Bip01 L Calf
+    100024: Bip01 L Clavicle
+    100026: Bip01 L Finger0
+    100028: Bip01 L Finger01
+    100030: Bip01 L Finger1
+    100032: Bip01 L Finger11
+    100034: Bip01 L Foot
+    100036: Bip01 L Forearm
+    100038: Bip01 L Hand
+    100040: Bip01 L Thigh
+    100042: Bip01 L Toe0
+    100044: Bip01 L UpperArm
+    100046: Bip01 Neck
+    100048: Bip01 Pelvis
+    100050: Bip01 R Calf
+    100052: Bip01 R Clavicle
+    100054: Bip01 R Finger0
+    100056: Bip01 R Finger01
+    100058: Bip01 R Finger1
+    100060: Bip01 R Finger11
+    100062: Bip01 R Foot
+    100064: Bip01 R Forearm
+    100066: Bip01 R Hand
+    100068: Bip01 R Thigh
+    100070: Bip01 R Toe0
+    100072: Bip01 R UpperArm
+    100074: Bip01 Spine
+    100076: Bip01 Spine1
+    100078: Bip01 Spine2
+    100080: Bip01 Spine3
+    100082: ctm_idf
+    100084: ctm_idf_variantB
+    100086: ctm_idf_variantC
+    100088: ctm_idf_variantD
+    100090: ctm_idf_variantE
+    100092: ctm_idf_variantF
+    100094: //RootNode
+    100096: tm_leet_variantA
+    100098: tm_leet_variantB
+    100100: tm_leet_variantC
+    100102: tm_leet_variantD
+    100104: tm_leet_variantE
+    400000: -- L Elbow
+    400002: -- L Knee
+    400004: -- L knuckle
+    400006: -- L wrist
+    400008: -- Neck smooth
+    400010: -- R Elbow
+    400012: -- R Knee
+    400014: -- R knuckle
+    400016: -- R wrist
+    400018: Bip01
+    400020: Bip01 Head
+    400022: Bip01 L Calf
+    400024: Bip01 L Clavicle
+    400026: Bip01 L Finger0
+    400028: Bip01 L Finger01
+    400030: Bip01 L Finger1
+    400032: Bip01 L Finger11
+    400034: Bip01 L Foot
+    400036: Bip01 L Forearm
+    400038: Bip01 L Hand
+    400040: Bip01 L Thigh
+    400042: Bip01 L Toe0
+    400044: Bip01 L UpperArm
+    400046: Bip01 Neck
+    400048: Bip01 Pelvis
+    400050: Bip01 R Calf
+    400052: Bip01 R Clavicle
+    400054: Bip01 R Finger0
+    400056: Bip01 R Finger01
+    400058: Bip01 R Finger1
+    400060: Bip01 R Finger11
+    400062: Bip01 R Foot
+    400064: Bip01 R Forearm
+    400066: Bip01 R Hand
+    400068: Bip01 R Thigh
+    400070: Bip01 R Toe0
+    400072: Bip01 R UpperArm
+    400074: Bip01 Spine
+    400076: Bip01 Spine1
+    400078: Bip01 Spine2
+    400080: Bip01 Spine3
+    400082: ctm_idf
+    400084: ctm_idf_variantB
+    400086: ctm_idf_variantC
+    400088: ctm_idf_variantD
+    400090: ctm_idf_variantE
+    400092: ctm_idf_variantF
+    400094: //RootNode
+    400096: tm_leet_variantA
+    400098: tm_leet_variantB
+    400100: tm_leet_variantC
+    400102: tm_leet_variantD
+    400104: tm_leet_variantE
+    4300000: ctm_idf
+    4300002: ctm_idf_variantB
+    4300004: ctm_idf_variantC
+    4300006: ctm_idf_variantD
+    4300008: ctm_idf_variantE
+    4300010: ctm_idf_variantF
+    4300012: tm_leet_variantC
+    4300014: tm_leet_variantD
+    4300016: tm_leet_variantE
+    4300018: tm_leet_variantA
+    4300020: tm_leet_variantB
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ctm_idf
+    13700002: ctm_idf_variantB
+    13700004: ctm_idf_variantC
+    13700006: ctm_idf_variantD
+    13700008: ctm_idf_variantE
+    13700010: ctm_idf_variantF
+    13700012: tm_leet_variantA
+    13700014: tm_leet_variantB
+    13700016: tm_leet_variantC
+    13700018: tm_leet_variantD
+    13700020: tm_leet_variantE
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EditorGUI
+  - Bot
+  - Bomb
+  - ladder
+  - SpawnCT
+  - SpawnT
+  - test
+  - DeathMatch
+  - Hostage
+  - Glass
+  - Door
+  - TeleportIn
+  - TeleportOut
+  - Water
+  - Jumper
+  - Lava
+  - TargetTest
+  - 1Level
+  - 3Jump
+  - Jump
+  - 2Level
+  - 2Jump
+  - Target
+  - MeshLink
+  - BrokenLamp
+  - ZSpawn
+  - Music
+  - Scale
+  - Trigger
+  - PCOnly
+  - Torso
+  - Head
+  - Platform
+  - Destroyable
+  - Barricade
+  - Spine
+  - GunPlaceHolder
+  - Mesh
+  - explosion
+  - ground
+  - shield
+  - AndroidButtons
+  - Hit_Torso
+  - Hit_Legs
+  - Hit_Arms
+  - Hit_Head
+  - WeaponMap
+  - missile
+  - breath
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - IgnoreColl
+  - C4
+  - Level
+  - Player
+  - Dead
+  - MiniMap
+  - PlayerClip
+  - Effect
+  - Cull
+  - 1ladder
+  - Glass
+  - Weapon
+  - IgnoreColl2
+  - grenade
+  - hands
+  - BombClip
+  - Physics
+  - GrenadeClip
+  - Destroyable
+  - PlayerMine
+  - Door
+  - Hitbox
+  - Clip
+  - Entity
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 989b9901c51bf2b4e90f3d718d68e520
+timeCreated: 1554321743
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: camera_inventory
+    100004: ct_arms
+    100006: t_arms
+    100008: //RootNode
+    100010: v_smg_mp5sd_smg_mp5sd_ref
+    100012: v_weapon
+    100014: v_weapon.Bip01
+    100016: v_weapon.Bip01_L_Clavicle
+    100018: v_weapon.Bip01_L_Finger0
+    100020: v_weapon.Bip01_L_Finger01
+    100022: v_weapon.Bip01_L_Finger02
+    100024: v_weapon.Bip01_L_Finger1
+    100026: v_weapon.Bip01_L_Finger11
+    100028: v_weapon.Bip01_L_Finger12
+    100030: v_weapon.Bip01_L_Finger2
+    100032: v_weapon.Bip01_L_Finger21
+    100034: v_weapon.Bip01_L_Finger22
+    100036: v_weapon.Bip01_L_Finger3
+    100038: v_weapon.Bip01_L_Finger31
+    100040: v_weapon.Bip01_L_Finger32
+    100042: v_weapon.Bip01_L_Finger4
+    100044: v_weapon.Bip01_L_Finger41
+    100046: v_weapon.Bip01_L_Finger42
+    100048: v_weapon.Bip01_L_Forearm
+    100050: v_weapon.Bip01_L_ForeTwist
+    100052: v_weapon.Bip01_L_Hand
+    100054: v_weapon.Bip01_L_UpperArm
+    100056: v_weapon.Bip01_Neck
+    100058: v_weapon.Bip01_Pelvis
+    100060: v_weapon.Bip01_Prop1
+    100062: v_weapon.Bip01_R_Clavicle
+    100064: v_weapon.Bip01_R_Finger0
+    100066: v_weapon.Bip01_R_Finger01
+    100068: v_weapon.Bip01_R_Finger02
+    100070: v_weapon.Bip01_R_Finger1
+    100072: v_weapon.Bip01_R_Finger11
+    100074: v_weapon.Bip01_R_Finger12
+    100076: v_weapon.Bip01_R_Finger2
+    100078: v_weapon.Bip01_R_Finger21
+    100080: v_weapon.Bip01_R_Finger22
+    100082: v_weapon.Bip01_R_Finger3
+    100084: v_weapon.Bip01_R_Finger31
+    100086: v_weapon.Bip01_R_Finger32
+    100088: v_weapon.Bip01_R_Finger4
+    100090: v_weapon.Bip01_R_Finger41
+    100092: v_weapon.Bip01_R_Finger42
+    100094: v_weapon.Bip01_R_Forearm
+    100096: v_weapon.Bip01_R_ForeTwist
+    100098: v_weapon.Bip01_R_Hand
+    100100: v_weapon.Bip01_R_UpperArm
+    100102: v_weapon.Bip01_Spine
+    100104: v_weapon.Bip01_Spine1
+    100106: v_weapon.Bip01_Spine2
+    100108: v_weapon.Bip01_Spine3
+    100110: v_weapon.bolt
+    100112: v_weapon.bullets
+    100114: v_weapon.flash
+    100116: v_weapon.mag
+    100118: v_weapon.mp5sd_parent
+    100120: v_weapon.mp7_parent
+    100122: v_weapon.release
+    100124: v_weapon.shelleject
+    100126: v_weapon.stattrack
+    100128: v_weapon.trigger
+    100130: v_weapon.uid
+    100132: v_weapon.v_weapon
+    100134: w_smg_mp5sd
+    400000: Bip01
+    400002: camera_inventory
+    400004: ct_arms
+    400006: t_arms
+    400008: //RootNode
+    400010: v_smg_mp5sd_smg_mp5sd_ref
+    400012: v_weapon
+    400014: v_weapon.Bip01
+    400016: v_weapon.Bip01_L_Clavicle
+    400018: v_weapon.Bip01_L_Finger0
+    400020: v_weapon.Bip01_L_Finger01
+    400022: v_weapon.Bip01_L_Finger02
+    400024: v_weapon.Bip01_L_Finger1
+    400026: v_weapon.Bip01_L_Finger11
+    400028: v_weapon.Bip01_L_Finger12
+    400030: v_weapon.Bip01_L_Finger2
+    400032: v_weapon.Bip01_L_Finger21
+    400034: v_weapon.Bip01_L_Finger22
+    400036: v_weapon.Bip01_L_Finger3
+    400038: v_weapon.Bip01_L_Finger31
+    400040: v_weapon.Bip01_L_Finger32
+    400042: v_weapon.Bip01_L_Finger4
+    400044: v_weapon.Bip01_L_Finger41
+    400046: v_weapon.Bip01_L_Finger42
+    400048: v_weapon.Bip01_L_Forearm
+    400050: v_weapon.Bip01_L_ForeTwist
+    400052: v_weapon.Bip01_L_Hand
+    400054: v_weapon.Bip01_L_UpperArm
+    400056: v_weapon.Bip01_Neck
+    400058: v_weapon.Bip01_Pelvis
+    400060: v_weapon.Bip01_Prop1
+    400062: v_weapon.Bip01_R_Clavicle
+    400064: v_weapon.Bip01_R_Finger0
+    400066: v_weapon.Bip01_R_Finger01
+    400068: v_weapon.Bip01_R_Finger02
+    400070: v_weapon.Bip01_R_Finger1
+    400072: v_weapon.Bip01_R_Finger11
+    400074: v_weapon.Bip01_R_Finger12
+    400076: v_weapon.Bip01_R_Finger2
+    400078: v_weapon.Bip01_R_Finger21
+    400080: v_weapon.Bip01_R_Finger22
+    400082: v_weapon.Bip01_R_Finger3
+    400084: v_weapon.Bip01_R_Finger31
+    400086: v_weapon.Bip01_R_Finger32
+    400088: v_weapon.Bip01_R_Finger4
+    400090: v_weapon.Bip01_R_Finger41
+    400092: v_weapon.Bip01_R_Finger42
+    400094: v_weapon.Bip01_R_Forearm
+    400096: v_weapon.Bip01_R_ForeTwist
+    400098: v_weapon.Bip01_R_Hand
+    400100: v_weapon.Bip01_R_UpperArm
+    400102: v_weapon.Bip01_Spine
+    400104: v_weapon.Bip01_Spine1
+    400106: v_weapon.Bip01_Spine2
+    400108: v_weapon.Bip01_Spine3
+    400110: v_weapon.bolt
+    400112: v_weapon.bullets
+    400114: v_weapon.flash
+    400116: v_weapon.mag
+    400118: v_weapon.mp5sd_parent
+    400120: v_weapon.mp7_parent
+    400122: v_weapon.release
+    400124: v_weapon.shelleject
+    400126: v_weapon.stattrack
+    400128: v_weapon.trigger
+    400130: v_weapon.uid
+    400132: v_weapon.v_weapon
+    400134: w_smg_mp5sd
+    4300000: ct_arms
+    4300002: t_arms
+    4300004: v_smg_mp5sd_smg_mp5sd_ref
+    4300006: w_smg_mp5sd
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ct_arms
+    13700002: t_arms
+    13700004: v_smg_mp5sd_smg_mp5sd_ref
+    13700006: w_smg_mp5sd
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

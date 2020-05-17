@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70370e86d4216c4ea0edbfb25f6d640, type: 3}
+  m_Name: rif_galilar
+  m_EditorClassIdentifier: 
+  Volume: 1
+  Pitch: 1
+  RandomClip: 1
+  Clip: {fileID: 0}
+  Clips:
+  - {fileID: 8300000, guid: 41f35bdbf13a3a340aa3133a656bedb2, type: 3}
+  - {fileID: 8300000, guid: 672bdf16cb60c3746821c047194bf009, type: 3}
+  - {fileID: 8300000, guid: a0c32fa7163591f48880c27a4b2cfad3, type: 3}
+  - {fileID: 8300000, guid: 46e1894c34084174fb289ee60abe1055, type: 3}

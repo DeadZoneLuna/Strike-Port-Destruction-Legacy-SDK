@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3463440385
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1c0292dbe27054cdd81f2fc328baf41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fb25c40217b658cc2d6e7d3db5f702d0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 783b5b964095ac44385b7b64bafcdc22, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/SDK/Models/Weapons/Rifles/snip_awp/w_snip_awp_dropped.prefab
+Dependencies: []

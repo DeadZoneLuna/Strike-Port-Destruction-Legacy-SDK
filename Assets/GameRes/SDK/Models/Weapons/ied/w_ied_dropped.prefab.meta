@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: dd14395bb5a607e4d8436ad8ac4fa630
+labels:
+- weapons/w_ied_dropped
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: weapons/w_ied_dropped
+  assetBundleVariant: 

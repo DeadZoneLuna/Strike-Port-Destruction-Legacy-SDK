@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62efc27bb7662db41857aff237b1b5bb, type: 3}
+  m_Name: GameSoundsObject
+  m_EditorClassIdentifier: 
+  TeleportIn: {fileID: 11400000, guid: 6cb3838cd4f18fd4fac87e08e4d4552f, type: 2}
+  TeleportOut: {fileID: 11400000, guid: f02d1800422980d478ab11f3eadc9540, type: 2}
+  JumperSound: {fileID: 11400000, guid: a58661219a5de3e4ab5df8198e178faa, type: 2}
+  Medkit: {fileID: 11400000, guid: 1b747e518141a6448b9705d414e24fe2, type: 2}
+  TerroristWin: {fileID: 11400000, guid: 60490c5d0385cdb48ad98a899a648308, type: 2}
+  CounterTerroristWin: {fileID: 11400000, guid: aa5d9144760f7364b8ddc8d40439455a,
+    type: 2}
+  RoundDraw: {fileID: 11400000, guid: c005c6dff95ebb14790eb4931c3aed9c, type: 2}
+  ZombieWin: {fileID: 11400000, guid: 4b1a7f9789faa9749bcff9a596ee0cc9, type: 2}
+  Go: {fileID: 11400000, guid: 45eacb790b6e4544581edb895330eeb8, type: 2}
+  SurvivalRound: {fileID: 11400000, guid: 8e40400e5dcd6b94a99b6d9de2e34a50, type: 2}
+  DifuseRadio: {fileID: 11400000, guid: 3f6771fbde1828a4ca68585e8ed9b77c, type: 2}
+  BombPlanted: {fileID: 11400000, guid: 4cecf49dfa998f0409b95dee847f0d6a, type: 2}
+  Zoom: {fileID: 11400000, guid: 93b024be5c0773e4c83b6ba13d8e2790, type: 2}
+  ClipOut: {fileID: 11400000, guid: 35276d8c92924f141b5d7ed61fe2ceaa, type: 2}
+  ClipIn: {fileID: 11400000, guid: 3833477f5aff36046929ecf1ccc704cc, type: 2}
+  BullPush: {fileID: 11400000, guid: 1e2aec9f1c738f94a80cbd7b67f107dc, type: 2}
+  DryFire: {fileID: 11400000, guid: 19756e7d42e6ff14ebb38c5de04ae0ef, type: 2}
+  Pip: {fileID: 11400000, guid: 26a242c72d5c8a440beed8371a2495ee, type: 2}
+  Explode: {fileID: 11400000, guid: 52a11c23605a20844a8fc6837228660d, type: 2}
+  BombPlant: {fileID: 11400000, guid: 1f405fe2856d6e74f9be6a2d58928916, type: 2}
+  Difuse: {fileID: 11400000, guid: 2d939a1d53cdd8e458268383143ec9a2, type: 2}
+  WeaponActionDistance:
+  - {fileID: 11400000, guid: 78c9b10303e33fb49abc512717d82245, type: 2}
+  - {fileID: 11400000, guid: dcb7356c89d000a428f6aef8b73256b1, type: 2}
+  - {fileID: 11400000, guid: b38916172fba1ad48953239ec6f1023d, type: 2}
+  - {fileID: 11400000, guid: 931dd59325fcc274f9948e0ae287b8c3, type: 2}
+  - {fileID: 11400000, guid: 356a9d887ce3c3c4294d4f3f510d3215, type: 2}
+  - {fileID: 11400000, guid: db04d592c0a9a2c42af393ad7f90c094, type: 2}
+  - {fileID: 11400000, guid: 55e61ed86e6f2514abf2bf19d49ebda2, type: 2}
+  - {fileID: 11400000, guid: 5b418d6109f658e4f967df99d5f9082d, type: 2}
+  - {fileID: 11400000, guid: 6ed99b41169af504eb54ecbc8c840cbd, type: 2}
+  - {fileID: 11400000, guid: 211946f581c74d240b2b30994926a76f, type: 2}
+  - {fileID: 11400000, guid: 2828f28a60c50904e9588b42c6e7d265, type: 2}
+  - {fileID: 11400000, guid: e894f494f67454e4b92f622581c22d19, type: 2}
+  - {fileID: 11400000, guid: e6565f1b390ec9c4e93e1bb4a756f89c, type: 2}
+  - {fileID: 11400000, guid: d1f83151c39c0214091995d38d1e9539, type: 2}
+  - {fileID: 11400000, guid: 2b3e4d2ab1551704495601b6ea331bee, type: 2}
+  - {fileID: 11400000, guid: a047c5857338421428a6fc90e1bdc4de, type: 2}
+  - {fileID: 11400000, guid: 787c356f1387c1840aefe3281ec509ed, type: 2}
+  - {fileID: 11400000, guid: 1199ce602fd91964aba2babbb591636b, type: 2}
+  - {fileID: 11400000, guid: f556958f042ea95469be6125459d149d, type: 2}
+  - {fileID: 11400000, guid: a4f7472cb28e3814d8be9ed48acc58fc, type: 2}
+  - {fileID: 11400000, guid: b1ca53754c882304f99abc1136989800, type: 2}
+  - {fileID: 11400000, guid: 74ba0c26551d4e6489f10cfb76ef3689, type: 2}
+  - {fileID: 11400000, guid: 9fa7440781ff96a45aea42dbd435ec4f, type: 2}
+  - {fileID: 11400000, guid: 2ea7ddd1f2fbf344f8469c1ea642043b, type: 2}
+  - {fileID: 11400000, guid: 41d603c0b4c692249b9d7eec31edf840, type: 2}
+  - {fileID: 11400000, guid: e74ecc1060fd21d4f8b85a94bbf40129, type: 2}
+  - {fileID: 11400000, guid: cfedb05f85773a54089108e865003679, type: 2}
+  - {fileID: 11400000, guid: 1019969834699d44ea285e4f7bf68061, type: 2}
+  - {fileID: 11400000, guid: 4933ba34a4b735c449f9deade9bd56b9, type: 2}
+  - {fileID: 11400000, guid: f3d865145ba7e724388636532086ed7c, type: 2}
+  - {fileID: 11400000, guid: fa75b1558949f7540a1ee10904de97a6, type: 2}
+  - {fileID: 11400000, guid: c6c7c7771b5281f47a5a01a8830a2ca9, type: 2}
+  WeaponAction:
+  - {fileID: 11400000, guid: 8f5eaadb84db9d8459934a353f607a24, type: 2}
+  - {fileID: 11400000, guid: 7d8fcb1f6b21efd42a24ddcbf39d133b, type: 2}
+  - {fileID: 11400000, guid: 26787ff39d2175844bb8a22fb929d19b, type: 2}
+  - {fileID: 11400000, guid: 1b04f3473c95dc741939b1ae75636e7e, type: 2}
+  - {fileID: 11400000, guid: 4016348048064dd4696e9d114c73a533, type: 2}
+  - {fileID: 11400000, guid: 394e546070143fc4ebf73c221b2d4a83, type: 2}
+  - {fileID: 11400000, guid: 54ecaa6400c9a9f44a47879f87d43381, type: 2}
+  - {fileID: 11400000, guid: 824005eb358c1224083cde53754779ea, type: 2}
+  - {fileID: 11400000, guid: ef74c68795c986c479931c48d9dc146a, type: 2}
+  - {fileID: 11400000, guid: a9460f2b14a9d4d4ba1cba12d61e67f9, type: 2}
+  - {fileID: 11400000, guid: 4c9ee773883269148ade20cf2906754e, type: 2}
+  - {fileID: 11400000, guid: fb23dbe522179954c856c03c2581212e, type: 2}
+  - {fileID: 11400000, guid: 8dfd05e797bdb564f976333cdc9a72d4, type: 2}
+  - {fileID: 11400000, guid: f8da3416562310e46b112520688f18ed, type: 2}
+  - {fileID: 11400000, guid: d750f554157289840b04ed569bbdbb33, type: 2}
+  - {fileID: 11400000, guid: 30d098d316957184589f9974c6710c49, type: 2}
+  - {fileID: 11400000, guid: a5ebe04f8d92cff47a17c4a2b43db7b1, type: 2}
+  - {fileID: 11400000, guid: 03d6e2d4dbdb0254f98733ac5f990a56, type: 2}
+  - {fileID: 11400000, guid: d586f5190ea779f4abcc9314ecab68ae, type: 2}
+  - {fileID: 11400000, guid: 8aecde3df9fddda44824adb6e6d6cb4a, type: 2}
+  - {fileID: 11400000, guid: 161af1224279e6a4289110d4d6f59e2a, type: 2}
+  - {fileID: 11400000, guid: a495600e1133aff46aa5400a62df5fba, type: 2}
+  - {fileID: 11400000, guid: a508d1481c8a2d5489d5d41f2db99ef8, type: 2}
+  - {fileID: 11400000, guid: 7ed4be2912a7e2b469857b2a908050ed, type: 2}
+  - {fileID: 11400000, guid: 00cc0c986fb779844b666819d5f6c848, type: 2}
+  - {fileID: 11400000, guid: 17fa0f1add37912459f9414b2318cc7e, type: 2}
+  - {fileID: 11400000, guid: 38aec72484948824a99a2291d7bf31c3, type: 2}
+  - {fileID: 11400000, guid: 25a38acec43130a4d82aa7d560c45831, type: 2}
+  - {fileID: 11400000, guid: 60ef745d649fde847841a579db67c529, type: 2}
+  - {fileID: 11400000, guid: c235e5ccb0b0d16468c5355ef1092edd, type: 2}
+  - {fileID: 11400000, guid: 3afdcab07eccc95439b5e4587a624a74, type: 2}
+  - {fileID: 11400000, guid: 1b33eb6bb570dd548a50266932046c92, type: 2}
+  WeaponActionSilencerDistance:
+  - {fileID: 11400000, guid: c2a63774450d3704da190eacd1b1884b, type: 2}
+  - {fileID: 11400000, guid: f3153d14c0589044688814f9eafe4c97, type: 2}
+  WeaponSilencerAction:
+  - {fileID: 11400000, guid: 2ad99112d64b3784a8b6ac3b10ca5fe2, type: 2}
+  - {fileID: 11400000, guid: ddb31078300a1b149936a87c2be3a409, type: 2}
+  GrenadeExplosion:
+  - {fileID: 11400000, guid: bc5379523e4785d4f8f62537378ab516, type: 2}
+  - {fileID: 11400000, guid: 9ae7b1c4a9ff05b43962384529908fce, type: 2}
+  - {fileID: 11400000, guid: 6bb4c952ad4fb8a4c86208ceabcf00fc, type: 2}
+  GrenadeHit:
+  - {fileID: 11400000, guid: 7247090b7bd55e842863325612e0b461, type: 2}
+  - {fileID: 11400000, guid: 0e853b26821a3174197f0b7feea03ba1, type: 2}
+  - {fileID: 11400000, guid: f633c329dda2555449ace57d4ae8f1b0, type: 2}
+  GrenadeThrow: {fileID: 11400000, guid: 1c3127ed125dc0e43b6901242312a82e, type: 2}
+  MidSlashKnife: {fileID: 11400000, guid: 2281c9bd77a4a2d4cba775cb2d8075dd, type: 2}
+  HitWallKnife: {fileID: 11400000, guid: cf21afb0445a4014384b9251dace0619, type: 2}
+  HitKnife: {fileID: 11400000, guid: d645e55a5fc91eb4cb336ec2ccde0712, type: 2}
+  StabKnife: {fileID: 11400000, guid: c247423618546654d9990e5954fd0bdd, type: 2}
+  HeadShot: {fileID: 11400000, guid: a73169fad3fd8d545996f031f48d1421, type: 2}
+  MultiKill: {fileID: 11400000, guid: a73169fad3fd8d545996f031f48d1421, type: 2}
+  FragLeft: {fileID: 11400000, guid: a73169fad3fd8d545996f031f48d1421, type: 2}
+  Excelent: {fileID: 11400000, guid: a73169fad3fd8d545996f031f48d1421, type: 2}
+  LostTheLead: {fileID: 11400000, guid: a73169fad3fd8d545996f031f48d1421, type: 2}
+  TieLead: {fileID: 11400000, guid: a73169fad3fd8d545996f031f48d1421, type: 2}
+  TakenLead: {fileID: 11400000, guid: a73169fad3fd8d545996f031f48d1421, type: 2}
+  BlueFlagReturn: {fileID: 11400000, guid: a73169fad3fd8d545996f031f48d1421, type: 2}
+  RedFlagReturn: {fileID: 11400000, guid: a73169fad3fd8d545996f031f48d1421, type: 2}
+  YouHaveAFlag: {fileID: 11400000, guid: a73169fad3fd8d545996f031f48d1421, type: 2}
+  YourTeamHaveFlag: {fileID: 11400000, guid: a73169fad3fd8d545996f031f48d1421, type: 2}
+  EnemyHaveYourFlag: {fileID: 11400000, guid: a73169fad3fd8d545996f031f48d1421, type: 2}
+  BlueScore: {fileID: 11400000, guid: a73169fad3fd8d545996f031f48d1421, type: 2}
+  RedScore: {fileID: 11400000, guid: a73169fad3fd8d545996f031f48d1421, type: 2}
+  Score: {fileID: 11400000, guid: a73169fad3fd8d545996f031f48d1421, type: 2}
+  HeadShot2: {fileID: 11400000, guid: 4c5604c4b34571549a770417c1bf1b53, type: 2}
+  Death: {fileID: 11400000, guid: 72023df00f785f8459bb5a88eb868308, type: 2}
+  Footsteps: {fileID: 11400000, guid: ce88a870211045f49935c4ece1e759bf, type: 2}
+  PlayerSpawn: {fileID: 11400000, guid: 3fb252af3988e874f9268984e7c554a3, type: 2}
+  BodyHit: {fileID: 11400000, guid: 2c0ce26cd6633ed4f807a1710e557500, type: 2}
+  Damage: {fileID: 11400000, guid: 34ea180e9315930418a92f68c2bc24c4, type: 2}
+  FallDamage: {fileID: 11400000, guid: 34ea180e9315930418a92f68c2bc24c4, type: 2}
+  Buy: {fileID: 11400000, guid: 765c852017c3a4d43b12a6d9f5555742, type: 2}
+  Flashlight: {fileID: 11400000, guid: 518527cf940b23d468afd390d8625972, type: 2}
+  Exhaused: {fileID: 11400000, guid: ac82922207c66cb4990cb1d3abff9694, type: 2}
+  Spray: {fileID: 11400000, guid: 50094d99cfc074b44824362a4bca9666, type: 2}
+  Bulletric: {fileID: 11400000, guid: 507ab3a53cd0a4f49ac2d2e0ac91008b, type: 2}
+  Sigh: {fileID: 11400000, guid: 0a420dfc4c1aea843a2a35de8a27b695, type: 2}
+  Melee: {fileID: 11400000, guid: d7d04f1ad66ef484d87fe3850557c4e3, type: 2}
+  Rescued: {fileID: 11400000, guid: d44e20f4cd9d9b54fbc8ff2b629cef66, type: 2}
+  LetsGo: {fileID: 11400000, guid: 6a4fa610030312846b69dd8dfef16502, type: 2}

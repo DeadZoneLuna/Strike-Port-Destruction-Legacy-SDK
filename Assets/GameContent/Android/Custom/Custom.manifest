@@ -1,0 +1,534 @@
+ManifestFileVersion: 0
+CRC: 1235603461
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: players/player_idf_f
+      Dependencies:
+        Dependency_0: players/player_leet_d
+        Dependency_1: players/player_idf_b
+        Dependency_2: players/player_leet_e
+        Dependency_3: players/player_leet_b
+        Dependency_4: players/player_leet_c
+        Dependency_5: players/player_idf_d
+        Dependency_6: players/player_idf_e
+        Dependency_7: players/player_idf
+        Dependency_8: players/player_idf_c
+        Dependency_9: players/player_leet_a
+    Info_1:
+      Name: players/player_leet_d
+      Dependencies:
+        Dependency_0: players/player_idf_f
+        Dependency_1: players/player_idf_b
+        Dependency_2: players/player_leet_e
+        Dependency_3: players/player_leet_b
+        Dependency_4: players/player_leet_c
+        Dependency_5: players/player_idf_d
+        Dependency_6: players/player_idf_e
+        Dependency_7: players/player_idf
+        Dependency_8: players/player_idf_c
+        Dependency_9: players/player_leet_a
+    Info_2:
+      Name: players/player_idf_b
+      Dependencies:
+        Dependency_0: players/player_idf_f
+        Dependency_1: players/player_leet_d
+        Dependency_2: players/player_leet_e
+        Dependency_3: players/player_leet_b
+        Dependency_4: players/player_leet_c
+        Dependency_5: players/player_idf_d
+        Dependency_6: players/player_idf_e
+        Dependency_7: players/player_idf
+        Dependency_8: players/player_idf_c
+        Dependency_9: players/player_leet_a
+    Info_3:
+      Name: players/player_leet_e
+      Dependencies:
+        Dependency_0: players/player_idf_f
+        Dependency_1: players/player_leet_d
+        Dependency_2: players/player_idf_b
+        Dependency_3: players/player_leet_b
+        Dependency_4: players/player_leet_c
+        Dependency_5: players/player_idf_d
+        Dependency_6: players/player_idf_e
+        Dependency_7: players/player_idf
+        Dependency_8: players/player_idf_c
+        Dependency_9: players/player_leet_a
+    Info_4:
+      Name: players/player_leet_b
+      Dependencies:
+        Dependency_0: players/player_idf_f
+        Dependency_1: players/player_leet_d
+        Dependency_2: players/player_idf_b
+        Dependency_3: players/player_leet_e
+        Dependency_4: players/player_leet_c
+        Dependency_5: players/player_idf_d
+        Dependency_6: players/player_idf_e
+        Dependency_7: players/player_idf
+        Dependency_8: players/player_idf_c
+        Dependency_9: players/player_leet_a
+    Info_5:
+      Name: players/player_leet_c
+      Dependencies:
+        Dependency_0: players/player_idf_f
+        Dependency_1: players/player_leet_d
+        Dependency_2: players/player_idf_b
+        Dependency_3: players/player_leet_e
+        Dependency_4: players/player_leet_b
+        Dependency_5: players/player_idf_d
+        Dependency_6: players/player_idf_e
+        Dependency_7: players/player_idf
+        Dependency_8: players/player_idf_c
+        Dependency_9: players/player_leet_a
+    Info_6:
+      Name: players/player_idf_d
+      Dependencies:
+        Dependency_0: players/player_idf_f
+        Dependency_1: players/player_leet_d
+        Dependency_2: players/player_idf_b
+        Dependency_3: players/player_leet_e
+        Dependency_4: players/player_leet_b
+        Dependency_5: players/player_leet_c
+        Dependency_6: players/player_idf_e
+        Dependency_7: players/player_idf
+        Dependency_8: players/player_idf_c
+        Dependency_9: players/player_leet_a
+    Info_7:
+      Name: players/player_idf_e
+      Dependencies:
+        Dependency_0: players/player_idf_f
+        Dependency_1: players/player_leet_d
+        Dependency_2: players/player_idf_b
+        Dependency_3: players/player_leet_e
+        Dependency_4: players/player_leet_b
+        Dependency_5: players/player_leet_c
+        Dependency_6: players/player_idf_d
+        Dependency_7: players/player_idf
+        Dependency_8: players/player_idf_c
+        Dependency_9: players/player_leet_a
+    Info_8:
+      Name: players/player_idf
+      Dependencies:
+        Dependency_0: players/player_idf_f
+        Dependency_1: players/player_leet_d
+        Dependency_2: players/player_idf_b
+        Dependency_3: players/player_leet_e
+        Dependency_4: players/player_leet_b
+        Dependency_5: players/player_leet_c
+        Dependency_6: players/player_idf_d
+        Dependency_7: players/player_idf_e
+        Dependency_8: players/player_idf_c
+        Dependency_9: players/player_leet_a
+    Info_9:
+      Name: players/player_idf_c
+      Dependencies:
+        Dependency_0: players/player_idf_f
+        Dependency_1: players/player_leet_d
+        Dependency_2: players/player_idf_b
+        Dependency_3: players/player_leet_e
+        Dependency_4: players/player_leet_b
+        Dependency_5: players/player_leet_c
+        Dependency_6: players/player_idf_d
+        Dependency_7: players/player_idf_e
+        Dependency_8: players/player_idf
+        Dependency_9: players/player_leet_a
+    Info_10:
+      Name: players/player_leet_a
+      Dependencies:
+        Dependency_0: players/player_idf_f
+        Dependency_1: players/player_leet_d
+        Dependency_2: players/player_idf_b
+        Dependency_3: players/player_leet_e
+        Dependency_4: players/player_leet_b
+        Dependency_5: players/player_leet_c
+        Dependency_6: players/player_idf_d
+        Dependency_7: players/player_idf_e
+        Dependency_8: players/player_idf
+        Dependency_9: players/player_idf_c
+    Info_11:
+      Name: weapons/eq_flashbang
+      Dependencies: {}
+    Info_12:
+      Name: weapons/w_eq_flashbang
+      Dependencies: {}
+    Info_13:
+      Name: weapons/rif_m4a4
+      Dependencies: {}
+    Info_14:
+      Name: weapons/w_rif_galilar
+      Dependencies: {}
+    Info_15:
+      Name: weapons/smg_mp9
+      Dependencies: {}
+    Info_16:
+      Name: particles/smallexplode
+      Dependencies: {}
+    Info_17:
+      Name: weapons/w_smg_mp7_dropped
+      Dependencies: {}
+    Info_18:
+      Name: weapons/w_smg_mac10_dropped
+      Dependencies: {}
+    Info_19:
+      Name: characters/fatty_def
+      Dependencies: {}
+    Info_20:
+      Name: weapons/w_snip_g3sg1_dropped
+      Dependencies: {}
+    Info_21:
+      Name: weapons/w_pist_glock18_dropped
+      Dependencies: {}
+    Info_22:
+      Name: weapons/w_mach_m249_dropped
+      Dependencies: {}
+    Info_23:
+      Name: weapons/w_snip_awp_dropped
+      Dependencies: {}
+    Info_24:
+      Name: weapons/w_snip_ssg08_dropped
+      Dependencies: {}
+    Info_25:
+      Name: weapons/pist_fiveseven
+      Dependencies: {}
+    Info_26:
+      Name: weapons/rif_sg556
+      Dependencies: {}
+    Info_27:
+      Name: weapons/w_shot_mag7_dropped
+      Dependencies: {}
+    Info_28:
+      Name: weapons/ied
+      Dependencies: {}
+    Info_29:
+      Name: weapons/w_pist_deagle_dropped
+      Dependencies: {}
+    Info_30:
+      Name: weapons/w_shot_mag7
+      Dependencies: {}
+    Info_31:
+      Name: particles/shell_57
+      Dependencies: {}
+    Info_32:
+      Name: weapons/ct_arms
+      Dependencies: {}
+    Info_33:
+      Name: weapons/smg_mp5sd
+      Dependencies: {}
+    Info_34:
+      Name: weapons/rif_galilar
+      Dependencies: {}
+    Info_35:
+      Name: particles/blood
+      Dependencies: {}
+    Info_36:
+      Name: weapons/w_rif_aug
+      Dependencies: {}
+    Info_37:
+      Name: weapons/w_rif_m4a1_dropped
+      Dependencies: {}
+    Info_38:
+      Name: weapons/w_smg_mp9
+      Dependencies: {}
+    Info_39:
+      Name: particles/shell_9mm
+      Dependencies: {}
+    Info_40:
+      Name: weapons/w_eq_fraggrenade
+      Dependencies: {}
+    Info_41:
+      Name: characters/monster_def
+      Dependencies: {}
+    Info_42:
+      Name: weapons/snip_awp
+      Dependencies: {}
+    Info_43:
+      Name: particles/shell_338mag
+      Dependencies: {}
+    Info_44:
+      Name: weapons/w_smg_bizon
+      Dependencies: {}
+    Info_45:
+      Name: weapons/w_shot_sawedoff_dropped
+      Dependencies: {}
+    Info_46:
+      Name: weapons/w_smg_mp5sd
+      Dependencies: {}
+    Info_47:
+      Name: weapons/snip_g3sg1
+      Dependencies: {}
+    Info_48:
+      Name: particles/muzzleflasheffect
+      Dependencies: {}
+    Info_49:
+      Name: weapons/w_rif_m4a1
+      Dependencies: {}
+    Info_50:
+      Name: weapons/w_rif_famas_dropped
+      Dependencies: {}
+    Info_51:
+      Name: weapons/pist_hkp2000
+      Dependencies: {}
+    Info_52:
+      Name: weapons/w_snip_scar20_dropped
+      Dependencies: {}
+    Info_53:
+      Name: weapons/w_smg_ump45
+      Dependencies: {}
+    Info_54:
+      Name: weapons/w_pist_p250
+      Dependencies: {}
+    Info_55:
+      Name: weapons/w_knife
+      Dependencies: {}
+    Info_56:
+      Name: weapons/rif_famas
+      Dependencies: {}
+    Info_57:
+      Name: weapons/w_snip_awp
+      Dependencies: {}
+    Info_58:
+      Name: weapons/w_mach_negev_dropped
+      Dependencies: {}
+    Info_59:
+      Name: weapons/w_eq_fraggrenade_dropped
+      Dependencies: {}
+    Info_60:
+      Name: weapons/pist_deagle
+      Dependencies: {}
+    Info_61:
+      Name: weapons/mach_negev
+      Dependencies: {}
+    Info_62:
+      Name: weapons/w_smg_mp5sd_dropped
+      Dependencies: {}
+    Info_63:
+      Name: weapons/smg_bizon
+      Dependencies: {}
+    Info_64:
+      Name: weapons/w_shot_sawedoff
+      Dependencies: {}
+    Info_65:
+      Name: weapons/w_shot_xm1014_dropped
+      Dependencies: {}
+    Info_66:
+      Name: weapons/w_smg_p90
+      Dependencies: {}
+    Info_67:
+      Name: particles/flashbanglight
+      Dependencies: {}
+    Info_68:
+      Name: weapons/snip_ssg08
+      Dependencies: {}
+    Info_69:
+      Name: weapons/w_smg_p90_dropped
+      Dependencies: {}
+    Info_70:
+      Name: weapons/smg_mac10
+      Dependencies: {}
+    Info_71:
+      Name: weapons/w_rif_galilar_dropped
+      Dependencies: {}
+    Info_72:
+      Name: weapons/w_pist_glock18
+      Dependencies: {}
+    Info_73:
+      Name: weapons/w_eq_smokegrenade
+      Dependencies: {}
+    Info_74:
+      Name: weapons/rif_aug
+      Dependencies: {}
+    Info_75:
+      Name: particles/shell_12guage
+      Dependencies: {}
+    Info_76:
+      Name: weapons/w_rif_famas
+      Dependencies: {}
+    Info_77:
+      Name: weapons/w_shot_nova_dropped
+      Dependencies: {}
+    Info_78:
+      Name: particles/shell_762nato
+      Dependencies: {}
+    Info_79:
+      Name: particles/shell_556
+      Dependencies: {}
+    Info_80:
+      Name: weapons/smg_mp7
+      Dependencies: {}
+    Info_81:
+      Name: weapons/w_shot_nova
+      Dependencies: {}
+    Info_82:
+      Name: weapons/w_smg_mp7
+      Dependencies: {}
+    Info_83:
+      Name: weapons/w_pist_223
+      Dependencies: {}
+    Info_84:
+      Name: weapons/smg_p90
+      Dependencies: {}
+    Info_85:
+      Name: weapons/w_eq_smokegrenade_dropped
+      Dependencies: {}
+    Info_86:
+      Name: weapons/w_knife_dropped
+      Dependencies: {}
+    Info_87:
+      Name: weapons/w_eq_flashbang_dropped
+      Dependencies: {}
+    Info_88:
+      Name: weapons/shot_sawedoff
+      Dependencies: {}
+    Info_89:
+      Name: weapons/w_snip_scar20
+      Dependencies: {}
+    Info_90:
+      Name: weapons/w_pist_fiveseven_dropped
+      Dependencies: {}
+    Info_91:
+      Name: weapons/w_smg_ump45_dropped
+      Dependencies: {}
+    Info_92:
+      Name: weapons/w_pist_p250_dropped
+      Dependencies: {}
+    Info_93:
+      Name: weapons/snip_scar20
+      Dependencies: {}
+    Info_94:
+      Name: weapons/w_pist_tec9_dropped
+      Dependencies: {}
+    Info_95:
+      Name: weapons/w_pist_223_dropped
+      Dependencies: {}
+    Info_96:
+      Name: weapons/w_pist_hkp2000
+      Dependencies: {}
+    Info_97:
+      Name: weapons/w_pist_elite_dropped
+      Dependencies: {}
+    Info_98:
+      Name: weapons/rif_m4a1
+      Dependencies: {}
+    Info_99:
+      Name: weapons/w_pist_fiveseven
+      Dependencies: {}
+    Info_100:
+      Name: weapons/w_ied
+      Dependencies: {}
+    Info_101:
+      Name: weapons/pist_p250
+      Dependencies: {}
+    Info_102:
+      Name: weapons/w_smg_mac10
+      Dependencies: {}
+    Info_103:
+      Name: weapons/w_mach_negev
+      Dependencies: {}
+    Info_104:
+      Name: weapons/w_pist_hkp2000_dropped
+      Dependencies: {}
+    Info_105:
+      Name: weapons/smg_ump45
+      Dependencies: {}
+    Info_106:
+      Name: weapons/rif_ak47
+      Dependencies: {}
+    Info_107:
+      Name: weapons/pist_223
+      Dependencies: {}
+    Info_108:
+      Name: weapons/w_rif_m4a4
+      Dependencies: {}
+    Info_109:
+      Name: weapons/pist_glock18
+      Dependencies: {}
+    Info_110:
+      Name: weapons/w_snip_g3sg1
+      Dependencies: {}
+    Info_111:
+      Name: weapons/eq_smokegrenade
+      Dependencies: {}
+    Info_112:
+      Name: weapons/w_rif_ak47
+      Dependencies: {}
+    Info_113:
+      Name: particles/bigexplode
+      Dependencies: {}
+    Info_114:
+      Name: weapons/w_rif_aug_dropped
+      Dependencies: {}
+    Info_115:
+      Name: weapons/pist_tec9
+      Dependencies: {}
+    Info_116:
+      Name: weapons/w_pist_elite
+      Dependencies: {}
+    Info_117:
+      Name: weapons/w_rif_sg556_dropped
+      Dependencies: {}
+    Info_118:
+      Name: weapons/w_rif_sg556
+      Dependencies: {}
+    Info_119:
+      Name: weapons/shot_nova
+      Dependencies: {}
+    Info_120:
+      Name: weapons/shot_mag7
+      Dependencies: {}
+    Info_121:
+      Name: weapons/eq_fraggrenade
+      Dependencies: {}
+    Info_122:
+      Name: weapons/w_pist_deagle
+      Dependencies: {}
+    Info_123:
+      Name: weapons/w_snip_ssg08
+      Dependencies: {}
+    Info_124:
+      Name: weapons/w_ied_dropped
+      Dependencies: {}
+    Info_125:
+      Name: particles/impactdefault
+      Dependencies: {}
+    Info_126:
+      Name: weapons/knife
+      Dependencies: {}
+    Info_127:
+      Name: weapons/w_pist_tec9
+      Dependencies: {}
+    Info_128:
+      Name: weapons/pist_elite
+      Dependencies: {}
+    Info_129:
+      Name: weapons/w_smg_bizon_dropped
+      Dependencies: {}
+    Info_130:
+      Name: weapons/w_rif_ak47_dropped
+      Dependencies: {}
+    Info_131:
+      Name: weapons/t_arms
+      Dependencies: {}
+    Info_132:
+      Name: weapons/mach_m249
+      Dependencies: {}
+    Info_133:
+      Name: weapons/w_mach_m249
+      Dependencies: {}
+    Info_134:
+      Name: weapons/w_shot_xm1014
+      Dependencies: {}
+    Info_135:
+      Name: weapons/shot_xm1014
+      Dependencies: {}
+    Info_136:
+      Name: characters/hostage
+      Dependencies: {}
+    Info_137:
+      Name: weapons/w_rif_m4a4_dropped
+      Dependencies: {}
+    Info_138:
+      Name: weapons/w_smg_mp9_dropped
+      Dependencies: {}
+    Info_139:
+      Name: soundsbank
+      Dependencies: {}

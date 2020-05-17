@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f70370e86d4216c4ea0edbfb25f6d640, type: 3}
+  m_Name: HitKnife
+  m_EditorClassIdentifier: 
+  Volume: 1
+  Pitch: 1
+  RandomClip: 1
+  Clip: {fileID: 0}
+  Clips:
+  - {fileID: 8300000, guid: abb71a792ac5c2444ae9a799988cd8a0, type: 3}
+  - {fileID: 8300000, guid: 76098f0591eb460438ca458ca01216aa, type: 3}
+  - {fileID: 8300000, guid: ea350f43d0deafd4fbfc2b7980651466, type: 3}
+  - {fileID: 8300000, guid: 81aab6b74be76364ca430df12e2c7d6b, type: 3}

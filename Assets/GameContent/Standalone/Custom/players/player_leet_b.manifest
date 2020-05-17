@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1141462537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 452ff18a8016a81973eab0beed06b058
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1e7802175d03151f00c32653a35478f8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameRes/SDK/Models/Players/Player_LEET_B/Textures/tm_leet_lowerbody_variantb.jpg
+- Assets/GameRes/SDK/Models/Players/Player_LEET_B/Textures/tm_leet_upperbody_variantb_normal.jpg
+- Assets/GameRes/SDK/Models/Players/Player_LEET_B/Materials/tm_elite_head_variantB.mat
+- Assets/GameRes/SDK/Models/Players/Player_LEET_B/Textures/tm_elite_head_variantb.jpg
+- Assets/GameRes/SDK/Models/Players/Player_LEET_B/Textures/tm_leet_upperbody_variantb.jpg
+- Assets/GameRes/SDK/Models/Players/Player_LEET_B/Textures/tm_elite_head_variantb_normal.jpg
+- Assets/GameRes/SDK/Models/Players/Player_LEET_B/Materials/tm_leet_upperbody_variantB.mat
+- Assets/GameRes/SDK/Models/Players/Player_LEET_B/Materials/tm_leet_lowerbody_variantB.mat
+- Assets/GameRes/SDK/Models/Players/Player_LEET_B/Player_LEET_B.prefab
+- Assets/GameRes/SDK/Models/Players/Player_LEET_B/Textures/tm_leet_lowerbody_variantb_normal.jpg
+Dependencies:
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_idf_f
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_leet_d
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_idf_b
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_leet_e
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_leet_c
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_idf_d
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_idf_e
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_idf
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_idf_c
+- F:/Projects/Unity/Strike Port Destruction Legacy/SPD Legacy SDK (Community)/Assets/GameContent/Standalone/Custom/players/player_leet_a
